@@ -1,0 +1,28 @@
+{
+  "name": "@iicoding/react-icons",
+  "version": "0.0.5",
+  "repository": "https://github.com/Tddtest/iicoding-react-icons",
+  "license": "MIT",
+  "contributors": [
+    "北宋.张载<四为@163.com>"
+  ],
+  "sideEffects": false,
+  "main": "./lib/index.js",
+  "unpkg": "./dist/index.umd.js",
+  "module": "./es/index.js",
+  "resolutions": {
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
