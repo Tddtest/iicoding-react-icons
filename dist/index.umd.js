@@ -42611,7 +42611,7 @@ exports.Z = IconComp93Shadow;
 
 /***/ }),
 
-/***/ 57558:
+/***/ 1367:
 /***/ (function(__unused_webpack_module, exports) {
 
 "use strict";
@@ -42622,34 +42622,39 @@ var __webpack_unused_export__;
 __webpack_unused_export__ = ({
   value: true
 });
-var IconCreateTimeShadow = {
-  "icon": {
-    "tag": "svg",
-    "attrs": {
-      "viewBox": "0 0 1024 1024",
-      "focusable": "false"
-    },
-    "children": [{
-      "tag": "path",
+var IconCreateTimeFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
       "attrs": {
-        "d": "M832 1024H192C85.95 1024 0 938.05 0 832V192C0 85.95 85.95 0 192 0h640c106.05 0 192 85.95 192 192v640c0 106.05-85.95 192-192 192zm0 0"
-      }
-    }, {
-      "tag": "path",
-      "attrs": {
-        "d": "M624 298.66H314.66A58.74 58.74 0 00256 357.34v239.97c0 35.3 28.7 64 64 64h106.66c11.8.03 21.34-9.54 21.34-21.31s-9.54-21.34-21.34-21.34H320a21.36 21.36 0 01-21.34-21.35V426.66H640a21.34 21.34 0 1042.69 0v-69.32c-.03-32.35-26.34-58.68-58.69-58.68zm0 0"
-      }
-    }, {
-      "tag": "path",
-      "attrs": {
-        "d": "M362.66 362.66a21.36 21.36 0 01-21.35-21.35v-64a21.36 21.36 0 0142.69.03v64a21.32 21.32 0 01-21.34 21.32zm213.34 0a21.36 21.36 0 01-21.34-21.35v-64a21.34 21.34 0 0142.68.03v64A21.32 21.32 0 01576 362.66zm53.34 128c-76.44 0-138.65 62.2-138.65 138.65S552.87 768 629.34 768 768 705.79 768 629.34s-62.21-138.68-138.66-138.68zm53.32 160h-32v32c0 11.77-9.57 21.34-21.35 21.34S608 694.46 608 682.66v-32h-32a21.33 21.33 0 110-42.66h32v-32c0-11.77 9.57-21.34 21.34-21.34s21.35 9.57 21.35 21.34v32h32a21.34 21.34 0 01-.03 42.66zm0 0"
-      }
-    }]
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M832 1024H192C85.95 1024 0 938.05 0 832V192C0 85.95 85.95 0 192 0h640c106.05 0 192 85.95 192 192v640c0 106.05-85.95 192-192 192zm0 0",
+          "fill": "#E3F8FA"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M624 298.66H314.66A58.74 58.74 0 00256 357.34v239.97c0 35.3 28.7 64 64 64h106.66c11.8.03 21.34-9.54 21.34-21.31s-9.54-21.34-21.34-21.34H320a21.36 21.36 0 01-21.34-21.35V426.66H640a21.34 21.34 0 1042.69 0v-69.32c-.03-32.35-26.34-58.68-58.69-58.68zm0 0",
+          "fill": "#26C6DA"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M362.66 362.66a21.36 21.36 0 01-21.35-21.35v-64a21.36 21.36 0 0142.69.03v64a21.32 21.32 0 01-21.34 21.32zm213.34 0a21.36 21.36 0 01-21.34-21.35v-64a21.34 21.34 0 0142.68.03v64A21.32 21.32 0 01576 362.66zm53.34 128c-76.44 0-138.65 62.2-138.65 138.65S552.87 768 629.34 768 768 705.79 768 629.34s-62.21-138.68-138.66-138.68zm53.32 160h-32v32c0 11.77-9.57 21.34-21.35 21.34S608 694.46 608 682.66v-32h-32a21.33 21.33 0 110-42.66h32v-32c0-11.77 9.57-21.34 21.34-21.34s21.35 9.57 21.35 21.34v32h32a21.34 21.34 0 01-.03 42.66zm0 0",
+          "fill": "#8CE1EB"
+        }
+      }]
+    };
   },
   "name": "IconCreateTime",
-  "theme": "shadow"
+  "theme": "full"
 };
-exports.Z = IconCreateTimeShadow;
+exports.Z = IconCreateTimeFull;
 
 /***/ }),
 
@@ -42700,7 +42705,7 @@ exports.Z = IconLikeShadow;
 
 /***/ }),
 
-/***/ 19268:
+/***/ 94009:
 /***/ (function(__unused_webpack_module, exports) {
 
 "use strict";
@@ -42711,34 +42716,39 @@ var __webpack_unused_export__;
 __webpack_unused_export__ = ({
   value: true
 });
-var IconUpdateTimeShadow = {
-  "icon": {
-    "tag": "svg",
-    "attrs": {
-      "viewBox": "0 0 1024 1024",
-      "focusable": "false"
-    },
-    "children": [{
-      "tag": "path",
+var IconUpdateTimeFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
       "attrs": {
-        "d": "M832 1024H192C85.95 1024 0 938.05 0 832V192C0 85.95 85.95 0 192 0h640c106.05 0 192 85.95 192 192v640c0 106.05-85.95 192-192 192zm0 0"
-      }
-    }, {
-      "tag": "path",
-      "attrs": {
-        "d": "M512 256c-76.45 0-138.66 62.21-138.66 138.66S435.55 533.3 512 533.3s138.66-62.2 138.66-138.65S588.45 256 512 256zm47.07 185.76c-4.16 4.16-9.6 6.24-15.07 6.24s-10.91-2.08-15.07-6.24l-32-32c-4-4-6.24-9.4-6.24-15.07v-53.35c-.03-11.8 9.54-21.34 21.31-21.34s21.34 9.54 21.34 21.34v44.52l25.76 25.76a21.29 21.29 0 01-.03 30.14zm0 0"
-      }
-    }, {
-      "tag": "path",
-      "attrs": {
-        "d": "M730.66 341.34H704c-11.74 0-21.34 9.6-21.34 21.35S692.26 384 704 384h21.34v256H298.66V384H320c11.74 0 21.34-9.6 21.34-21.34s-9.6-21.35-21.34-21.35h-26.66c-20.47.03-37.34 16.87-37.34 37.35V645.3a37.53 37.53 0 0037.34 37.35H730.7a37.53 37.53 0 0037.34-37.35V378.66a37.56 37.56 0 00-37.37-37.32zm0 0M618.66 746.66A21.4 21.4 0 01597.3 768H426.66c-11.75 0-21.35-9.6-21.35-21.34s9.6-21.35 21.35-21.35h42.65v-42.65h85.35v42.65h42.65a21.44 21.44 0 0121.35 21.35zm0 0"
-      }
-    }]
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M832 1024H192C85.95 1024 0 938.05 0 832V192C0 85.95 85.95 0 192 0h640c106.05 0 192 85.95 192 192v640c0 106.05-85.95 192-192 192zm0 0",
+          "fill": "#FFF9DD"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M512 256c-76.45 0-138.66 62.21-138.66 138.66S435.55 533.3 512 533.3s138.66-62.2 138.66-138.65S588.45 256 512 256zm47.07 185.76c-4.16 4.16-9.6 6.24-15.07 6.24s-10.91-2.08-15.07-6.24l-32-32c-4-4-6.24-9.4-6.24-15.07v-53.35c-.03-11.8 9.54-21.34 21.31-21.34s21.34 9.54 21.34 21.34v44.52l25.76 25.76a21.29 21.29 0 01-.03 30.14zm0 0",
+          "fill": "#FFE777"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M730.66 341.34H704c-11.74 0-21.34 9.6-21.34 21.35S692.26 384 704 384h21.34v256H298.66V384H320c11.74 0 21.34-9.6 21.34-21.34s-9.6-21.35-21.34-21.35h-26.66c-20.47.03-37.34 16.87-37.34 37.35V645.3a37.53 37.53 0 0037.34 37.35H730.7a37.53 37.53 0 0037.34-37.35V378.66a37.56 37.56 0 00-37.37-37.32zm0 0M618.66 746.66A21.4 21.4 0 01597.3 768H426.66c-11.75 0-21.35-9.6-21.35-21.34s9.6-21.35 21.35-21.35h42.65v-42.65h85.35v42.65h42.65a21.44 21.44 0 0121.35 21.35zm0 0",
+          "fill": "#FFD200"
+        }
+      }]
+    };
   },
   "name": "IconUpdateTime",
-  "theme": "shadow"
+  "theme": "full"
 };
-exports.Z = IconUpdateTimeShadow;
+exports.Z = IconUpdateTimeFull;
 
 /***/ }),
 
@@ -45166,10 +45176,10 @@ __webpack_require__.d(__webpack_exports__, {
   IconComp8Shadow: function() { return /* reexport */ icons_IconComp8Shadow; },
   IconComp90Shadow: function() { return /* reexport */ icons_IconComp90Shadow; },
   IconComp93Shadow: function() { return /* reexport */ icons_IconComp93Shadow; },
-  IconCreateTimeShadow: function() { return /* reexport */ icons_IconCreateTimeShadow; },
+  IconCreateTimeFull: function() { return /* reexport */ icons_IconCreateTimeFull; },
   IconLikeShadow: function() { return /* reexport */ icons_IconLikeShadow; },
   IconProvider: function() { return /* binding */ IconProvider; },
-  IconUpdateTimeShadow: function() { return /* reexport */ icons_IconUpdateTimeShadow; },
+  IconUpdateTimeFull: function() { return /* reexport */ icons_IconUpdateTimeFull; },
   ImgDefault2Shadow: function() { return /* reexport */ icons_ImgDefault2Shadow; },
   ImgDefaultShadow: function() { return /* reexport */ icons_ImgDefaultShadow; },
   JsShadow: function() { return /* reexport */ icons_JsShadow; },
@@ -57672,23 +57682,23 @@ var IconComp93Shadow = function IconComp93Shadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_IconComp93Shadow = (/*#__PURE__*/external_React_.forwardRef(IconComp93Shadow));
-// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconCreateTimeShadow.js
-var icd_IconCreateTimeShadow = __webpack_require__(57558);
-;// CONCATENATED MODULE: ./src/icons/IconCreateTimeShadow.tsx
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconCreateTimeFull.js
+var icd_IconCreateTimeFull = __webpack_require__(1367);
+;// CONCATENATED MODULE: ./src/icons/IconCreateTimeFull.tsx
 
 // 为天地立心、为生民立命、为往圣继绝学、为万事开太平
 
 
 
 
-var IconCreateTimeShadow = function IconCreateTimeShadow(props, ref) {
+var IconCreateTimeFull = function IconCreateTimeFull(props, ref) {
   return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
     ref: ref,
-    icon: icd_IconCreateTimeShadow/* default */.Z
+    icon: icd_IconCreateTimeFull/* default */.Z
   }));
 };
 if (false) {}
-/* harmony default export */ var icons_IconCreateTimeShadow = (/*#__PURE__*/external_React_.forwardRef(IconCreateTimeShadow));
+/* harmony default export */ var icons_IconCreateTimeFull = (/*#__PURE__*/external_React_.forwardRef(IconCreateTimeFull));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconLikeShadow.js
 var icd_IconLikeShadow = __webpack_require__(47967);
 ;// CONCATENATED MODULE: ./src/icons/IconLikeShadow.tsx
@@ -57706,23 +57716,23 @@ var IconLikeShadow = function IconLikeShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_IconLikeShadow = (/*#__PURE__*/external_React_.forwardRef(IconLikeShadow));
-// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconUpdateTimeShadow.js
-var icd_IconUpdateTimeShadow = __webpack_require__(19268);
-;// CONCATENATED MODULE: ./src/icons/IconUpdateTimeShadow.tsx
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconUpdateTimeFull.js
+var icd_IconUpdateTimeFull = __webpack_require__(94009);
+;// CONCATENATED MODULE: ./src/icons/IconUpdateTimeFull.tsx
 
 // 为天地立心、为生民立命、为往圣继绝学、为万事开太平
 
 
 
 
-var IconUpdateTimeShadow = function IconUpdateTimeShadow(props, ref) {
+var IconUpdateTimeFull = function IconUpdateTimeFull(props, ref) {
   return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
     ref: ref,
-    icon: icd_IconUpdateTimeShadow/* default */.Z
+    icon: icd_IconUpdateTimeFull/* default */.Z
   }));
 };
 if (false) {}
-/* harmony default export */ var icons_IconUpdateTimeShadow = (/*#__PURE__*/external_React_.forwardRef(IconUpdateTimeShadow));
+/* harmony default export */ var icons_IconUpdateTimeFull = (/*#__PURE__*/external_React_.forwardRef(IconUpdateTimeFull));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ImgDefault2Shadow.js
 var icd_ImgDefault2Shadow = __webpack_require__(62337);
 ;// CONCATENATED MODULE: ./src/icons/ImgDefault2Shadow.tsx

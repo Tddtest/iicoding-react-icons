@@ -2,15 +2,15 @@ function _extends() { _extends = Object.assign ? Object.assign.bind() : function
 // 为天地立心、为生民立命、为往圣继绝学、为万事开太平
 
 import * as React from 'react';
-import IconUpdateTimeShadowSvg from "@iicoding/svg/dist/es/icd/IconUpdateTimeShadow";
+import IconUpdateTimeFullSvg from "@iicoding/svg/dist/es/icd/IconUpdateTimeFull";
 import IcdIcon from "../components/IcdIcon";
-var IconUpdateTimeShadow = function IconUpdateTimeShadow(props, ref) {
+var IconUpdateTimeFull = function IconUpdateTimeFull(props, ref) {
   return /*#__PURE__*/React.createElement(IcdIcon, _extends({}, props, {
     ref: ref,
-    icon: IconUpdateTimeShadowSvg
+    icon: IconUpdateTimeFullSvg
   }));
 };
 if (process.env.NODE_ENV !== 'production') {
-  IconUpdateTimeShadow.displayName = 'IconUpdateTimeShadow';
+  IconUpdateTimeFull.displayName = 'IconUpdateTimeFull';
 }
-export default /*#__PURE__*/React.forwardRef(IconUpdateTimeShadow);
+export default /*#__PURE__*/React.forwardRef(IconUpdateTimeFull);
