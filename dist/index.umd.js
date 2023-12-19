@@ -11,6 +11,916 @@
 return /******/ (function() { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
+/***/ 33046:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var AiShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 41 41",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M33.92 13.93l.01.03.01.02c2.26 4.54 1.96 8.23.29 11.18-1.7 3.01-4.93 5.4-8.76 7.05-7.5 3.24-16.13.55-19.13-6.37-2.97-6.87 1.2-14.31 8.76-17.58 7.57-3.26 15.85-1.2 18.82 5.67zM10 25.05c1.13 2.63 3.76 3.85 6.36 4.25 2.62.4 5.47.01 7.48-.86a6.85 6.85 0 004.05-4.47c.56-1.97.29-4.24-.72-6.57-1-2.31-2.56-4.27-4.42-5.45a6.63 6.63 0 00-6.31-.62c-2.1.9-4.2 3.12-5.53 5.61-1.32 2.48-2.03 5.53-.91 8.11z",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M6.28 25.36c2.78 8.39 11.55 13.54 19.95 10.78 8.4-2.76 12.36-12.1 9.58-20.5C33.03 7.26 24.26 2.1 15.86 4.87c-8.4 2.76-12.36 12.1-9.58 20.5zm23.28-7.66c1.29 3.9-2.07 13.54-6.91 15.13-4.85 1.6-11.58-2.85-11.6-8.58 0-5.73 3.23-7.82 7.81-9.34 4.58-1.53 9.4-1.1 10.7 2.79z",
+        "opacity": ".8"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M33.36 26.97c3.99-6.91 2.2-15.92-4.7-19.93-6.9-4-15.58-1.07-19.57 5.84s-2.2 15.92 4.7 19.93c6.9 4 15.58 1.07 19.57-5.84zm-19.13-11.1c1.85-3.21 10.36-6.73 14.35-4.42 3.98 2.3 5.02 9.52 1.16 12.96-3.86 3.45-7.2 2.52-10.98.34-3.78-2.17-6.39-5.68-4.53-8.89z",
+        "opacity": ".5"
+      }
+    }, {
+      "tag": "defs",
+      "attrs": {},
+      "children": [{
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint0_linear_5349_140949",
+          "x1": "14.72",
+          "x2": "25.86",
+          "y1": "7.34",
+          "y2": "33.13"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#7F76B3"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#7F76B3",
+            "stop-opacity": "0"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint1_linear_5349_140949",
+          "x1": "33.36",
+          "x2": "9.06",
+          "y1": "26.97",
+          "y2": "12.94"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#fff"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#fff",
+            "stop-opacity": "0"
+          }
+        }]
+      }]
+    }]
+  },
+  "name": "ai",
+  "theme": "shadow"
+};
+exports.Z = AiShadow;
+
+/***/ }),
+
+/***/ 63753:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var BackShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M6.6 12.12a.9.9 0 001.28-1.27L5.13 8.1H15a5.1 5.1 0 010 10.2H6a.9.9 0 000 1.8h9a6.9 6.9 0 100-13.8H5.22l2.66-2.66a.9.9 0 00-1.27-1.28L2.36 6.61a.9.9 0 000 1.27l4.25 4.24z",
+        "data-follow-fill": "currentColor",
+        "fill-rule": "evenodd"
+      }
+    }]
+  },
+  "name": "back",
+  "theme": "shadow"
+};
+exports.Z = BackShadow;
+
+/***/ }),
+
+/***/ 51957:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ChatShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 32 32",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M15.85 25.43c8.15 0 14.75-5.42 14.75-12.1 0-6.69-6.6-12.1-14.75-12.1S1.1 6.63 1.1 13.32c0 3.1 1.42 5.93 3.75 8.07 2.34 2.14.5 9.33.5 9.33l3.1-2.86c1.99-1.84 4.7-2.44 7.4-2.44z",
+        "fill-opacity": ".1",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M10.17 15.98h6.81M10.17 10.87H22.1",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }]
+  },
+  "name": "chat",
+  "theme": "shadow"
+};
+exports.Z = ChatShadow;
+
+/***/ }),
+
+/***/ 31165:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var CopyShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M12.16 2.1h5.67c.54 0 .99 0 1.36.03.39.03.76.1 1.13.29a2.9 2.9 0 011.26 1.26c.19.36.26.74.29 1.13.03.37.03.83.03 1.36v5.67c0 .53 0 .98-.03 1.35-.03.39-.1.77-.29 1.13a2.9 2.9 0 01-1.26 1.26c-.37.19-.74.26-1.13.29-.37.03-.83.03-1.36.03H15.9v1.93c0 .53 0 .99-.03 1.36-.03.39-.1.76-.29 1.13a2.9 2.9 0 01-1.26 1.26c-.37.19-.74.26-1.13.29-.37.03-.82.03-1.35.03H6.17c-.53 0-.99 0-1.36-.03-.39-.03-.76-.1-1.13-.29a2.9 2.9 0 01-1.26-1.26 2.95 2.95 0 01-.29-1.13c-.03-.37-.03-.83-.03-1.36v-5.67c0-.53 0-.98.03-1.35.03-.39.1-.77.29-1.13a2.9 2.9 0 011.26-1.26c.37-.19.74-.26 1.13-.29.37-.03.83-.03 1.35-.03H8.1V6.17c0-.53 0-.99.03-1.36.03-.39.1-.76.29-1.13a2.9 2.9 0 011.26-1.26c.36-.19.74-.26 1.13-.29.37-.03.82-.03 1.35-.03zM9 9.9a.89.89 0 00.02 0h2.79c.57 0 .95 0 1.24.02.28.03.4.07.46.1a1.1 1.1 0 01.48.48c.03.07.07.18.1.46.02.29.02.67.02 1.24v5.6c0 .57 0 .95-.02 1.24-.03.28-.07.4-.1.46a1.1 1.1 0 01-.48.48c-.07.03-.18.07-.46.1-.29.02-.66.02-1.24.02H6.2c-.57 0-.95 0-1.24-.02-.28-.03-.4-.07-.46-.1a1.1 1.1 0 01-.48-.48 1.23 1.23 0 01-.1-.46c-.02-.29-.02-.67-.02-1.24v-5.6c0-.57 0-.95.03-1.24.02-.28.06-.4.09-.46a1.1 1.1 0 01.48-.48c.07-.03.18-.07.46-.1.29-.02.67-.02 1.24-.02H9zm6.91 4.2v-1.93c0-.53 0-.99-.03-1.36-.03-.39-.1-.76-.29-1.13a2.9 2.9 0 00-1.26-1.26 2.97 2.97 0 00-1.13-.29c-.37-.03-.82-.03-1.35-.03H9.9V6.2c0-.57 0-.95.02-1.24.03-.28.07-.4.1-.46a1.1 1.1 0 01.48-.48c.07-.03.18-.07.46-.1.29-.02.67-.02 1.24-.02h5.6c.57 0 .95 0 1.24.02.28.03.4.07.46.1a1.1 1.1 0 01.48.48c.03.07.07.18.1.46.02.29.02.67.02 1.24v5.6c0 .57 0 .95-.02 1.24-.03.28-.07.4-.1.46a1.1 1.1 0 01-.48.48c-.07.03-.18.07-.46.1-.29.02-.67.02-1.24.02h-1.9z",
+        "fill-rule": "evenodd"
+      }
+    }]
+  },
+  "name": "copy",
+  "theme": "shadow"
+};
+exports.Z = CopyShadow;
+
+/***/ }),
+
+/***/ 24639:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var CutShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2.5",
+      "stroke": "currentColor",
+      "style": "margin-right:7px",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "circle",
+      "attrs": {
+        "cx": "6",
+        "cy": "6",
+        "r": "3"
+      }
+    }, {
+      "tag": "circle",
+      "attrs": {
+        "cx": "6",
+        "cy": "18",
+        "r": "3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"
+      }
+    }]
+  },
+  "name": "cut",
+  "theme": "shadow"
+};
+exports.Z = CutShadow;
+
+/***/ }),
+
+/***/ 97348:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var DTsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "clip-rule": "evenodd",
+      "stroke-linejoin": "round",
+      "stroke-miterlimit": "1.41",
+      "viewBox": "0 0 500 500",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "g",
+      "attrs": {},
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M454 454H46V46h408zM66 66v368h368V66z"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M349.8 237.85c-2.35 0-4.5.05-6.11.2-12.6 1.1-24.36 6.6-32.41 15.16a45.36 45.36 0 00-9.47 15.94c-1.97 6.06-1.96 5.95-1.95 15.45.01 12.14.63 15.14 4.76 23.22 4.15 8.11 10.48 14.74 19.6 20.55 4 2.54 14.25 7.65 22.62 11.27 18.21 7.89 23.97 11.53 26.65 16.84l1.1 2.19v4.59c0 4.42-.02 4.65-.92 6.48-2.05 4.22-6.9 7.68-13.11 9.35-2.35.63-3.42.72-8.67.72-5.14 0-6.38-.1-8.74-.69a33.56 33.56 0 01-10.28-4.27c-3.31-2.2-9.83-8.78-12.48-12.6-1.17-1.7-2.35-3.08-2.61-3.08-.44 0-22.9 12.85-26.83 15.34-1.32.84-1.66 1.22-1.66 1.9 0 1.4 5.25 9.33 9.37 14.15 8.38 9.82 25.18 18.48 40.06 20.65 5.89.85 15.66 1.13 22.49.63 4.47-.33 9-1.18 13.85-2.6 17.58-5.16 29.58-16.12 34.02-31.08a55.7 55.7 0 001.95-19.94c-1.23-13-5.22-22.18-13.1-30.14-7.33-7.39-17.38-13.34-37.22-22.04-17.2-7.54-21.68-10.47-24.16-15.77-2.14-4.57-1.73-10.86.96-14.77 3.15-4.58 9.58-6.84 16.75-5.9 6.67.89 10.98 3.53 15.2 9.32 2.2 3 3.72 4.57 4.45 4.57.72 0 3.82-1.91 13.45-8.3 9.8-6.51 12.89-8.72 13.1-9.39.32-1.03-1.21-3.44-5.7-8.95-9.03-11.07-19.64-16.95-33.26-18.42a120.8 120.8 0 00-11.7-.58zm-108.35 1.88h-27.58c-53.22.06-65.57.15-65.9.5-.33.31-.41 3.58-.41 15.76v15.35l24.2.1 24.2.08v68.5c0 37.68.09 68.82.2 69.21l.19.72h17.59c15.74 0 17.6-.04 17.78-.5.1-.28.18-31.42.18-69.21v-68.72l24.2-.09 24.2-.08V255.8c0-13.47-.05-15.58-.47-15.84-.22-.14-14.13-.22-38.39-.23z",
+          "fill-rule": "evenodd"
+        }
+      }]
+    }]
+  },
+  "name": "d.ts",
+  "theme": "shadow"
+};
+exports.Z = DTsShadow;
+
+/***/ }),
+
+/***/ 25107:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var DashboardsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 33 32",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M31.34 16.15c0-3.2-.13-5.8-.3-7.84-.32-3.6-3.02-6.3-6.61-6.6-2.05-.18-4.65-.31-7.84-.31-3.2 0-5.8.13-7.84.3-3.6.31-6.3 3.01-6.6 6.6-.18 2.05-.32 4.66-.32 7.85 0 3.32.15 6 .33 8.08A6.85 6.85 0 008.5 30.6c2.04.18 4.7.31 8.09.31 3.38 0 6.04-.13 8.08-.3a6.85 6.85 0 006.34-6.37c.19-2.08.33-4.76.33-8.08z",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M30.77 9.63l-6.46 6.98c-.4.43-.97.66-1.55.62l-7.4-.45a1.95 1.95 0 00-1.67.77l-3.44 4.51c-.3.4-.74.66-1.23.74l-6.05 1.01",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M23.68 17l7.66-7.38-.57 17.6-4.82 3.4-17.87.28-3.98-1.98-1.98-5.1 7.66-1.14 5.1-5.96 8.8.28z",
+        "fill-opacity": ".1"
+      }
+    }]
+  },
+  "name": "dashboards",
+  "theme": "shadow"
+};
+exports.Z = DashboardsShadow;
+
+/***/ }),
+
+/***/ 42319:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var DeleteShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M10.97 2.1h2.06c.44 0 .82 0 1.13.02.32.02.64.07.95.2a2.9 2.9 0 011.57 1.57 2.98 2.98 0 01.21 1.21H20a.9.9 0 110 1.8h-1.1v10.94c0 .53 0 .98-.03 1.35-.03.39-.1.76-.29 1.13a2.9 2.9 0 01-1.26 1.26c-.37.19-.74.26-1.13.29-.37.03-.83.03-1.36.03H9.16c-.53 0-.98 0-1.35-.03-.39-.03-.77-.1-1.13-.29a2.9 2.9 0 01-1.26-1.26 2.95 2.95 0 01-.29-1.13c-.03-.37-.03-.83-.03-1.36V6.9H4a.9.9 0 010-1.8h3.1a6.34 6.34 0 01.02-.26 2.97 2.97 0 01.2-.95A2.9 2.9 0 018.9 2.32a3 3 0 01.95-.2c.31-.02.69-.02 1.13-.02zm-2.06 3h6.18a5.06 5.06 0 000-.13 1.25 1.25 0 00-.07-.4 1.1 1.1 0 00-.6-.59 1.25 1.25 0 00-.39-.06A16.98 16.98 0 0013 3.9h-2c-.48 0-.8 0-1.03.02-.24.01-.34.04-.4.06a1.1 1.1 0 00-.59.6c-.02.05-.05.15-.06.39a5.17 5.17 0 00-.01.13zM6.9 6.9v10.9c0 .57 0 .95.02 1.24.03.28.07.4.1.46a1.1 1.1 0 00.48.48c.07.03.18.07.46.1.29.02.67.02 1.24.02h5.6c.57 0 .95 0 1.24-.02.28-.03.4-.07.46-.1a1.1 1.1 0 00.48-.48c.03-.07.07-.18.1-.46.02-.29.02-.67.02-1.24V6.9H6.9zM10 9.1a.9.9 0 01.9.9v7a.9.9 0 11-1.8 0v-7a.9.9 0 01.9-.9zm4 0a.9.9 0 01.9.9v7a.9.9 0 11-1.8 0v-7a.9.9 0 01.9-.9z",
+        "data-follow-fill": "currentColor",
+        "fill-rule": "evenodd"
+      }
+    }]
+  },
+  "name": "delete",
+  "theme": "shadow"
+};
+exports.Z = DeleteShadow;
+
+/***/ }),
+
+/***/ 88771:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var DesignShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1326 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M958.17 33.89l362.18 722.14a60.2 60.2 0 01-53.86 87.23H542.11a60.22 60.22 0 01-53.83-87.23L850.46 33.9a60.22 60.22 0 01107.68 0z",
+        "opacity": ".2"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M476.28 214.62l362.18 722.15A60.2 60.2 0 01784.6 1024H60.22A60.22 60.22 0 016.4 936.77l362.17-722.15a60.22 60.22 0 01107.68 0z"
+      }
+    }]
+  },
+  "name": "design",
+  "theme": "shadow"
+};
+exports.Z = DesignShadow;
+
+/***/ }),
+
+/***/ 42209:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var DocsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 27 32",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M13.35 30.73c-2.47 0-4.46-.12-6.02-.28a5.89 5.89 0 01-5.3-5.58c-.17-2.13-.32-5.05-.32-8.9 0-3.84.15-6.76.32-8.9a5.89 5.89 0 015.3-5.57 64.1 64.1 0 0112.09 0 6.44 6.44 0 015.83 6.08 108.78 108.78 0 01.25 12.1c-2.77 2.33-6.11 2.36-7.85 2.17-.51-.06-1 .46-.93.97.25 1.7.28 4.97-2.26 7.9h-1.11z",
+        "fill-opacity": ".1",
+        "fill-rule": "evenodd"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M7.8 30.5a65.5 65.5 0 0011.1 0 6.97 6.97 0 006.39-6.65 111 111 0 00.26-7.87 111 111 0 00-.26-7.88 6.97 6.97 0 00-6.39-6.66 65.46 65.46 0 00-11.1.01c-3.27.3-5.56 2.83-5.8 6.1a112.7 112.7 0 00-.29 8.43c0 3.57.13 6.34.29 8.42.24 3.28 2.53 5.8 5.8 6.1z",
+        "fill-opacity": ".1",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M25.26 19.38c-3.23 3.52-5.72.05-8.22 2.55-2.51 2.51.96 5-2.84 8.52M7.96 8.03H19.3M7.96 13.7h7.37",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }]
+  },
+  "name": "docs",
+  "theme": "shadow"
+};
+exports.Z = DocsShadow;
+
+/***/ }),
+
+/***/ 61447:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Empt1Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 42 37",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M20.46 30.02c.27-2.67.45-2.82 3.24-2.82h10.75c1.95-.01 2.52.5 2.57 2.36 0 .15.02.3.03.44 2.51.32 2.98.92 2.62 3.4H17.84c-.43-2.38.17-3.14 2.62-3.38z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M16.12 14.68l2.9 2.96c-.06.07-.2.25-.35.41L4.83 32.12a2.76 2.76 0 01-3.72.36 2.55 2.55 0 01-.75-3.4c.16-.28.38-.52.62-.74l14.78-13.38c.1-.09.21-.16.36-.27z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M24.13 4.6l5.56 5.28-8.33 7.97-5.52-5.33 8.29-7.92z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M21.59 0c.96.11 1.74.58 2.08 1.38.36.88.13 1.65-.56 2.3l-6.54 6.28c-.57.54-1.12 1.1-1.7 1.62-.92.83-2.2.83-3.04.03-.81-.77-.84-2 .03-2.85a775.5 775.5 0 018.4-8.08c.33-.32.87-.45 1.33-.68z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M34.56 12.26c-.26.48-.42 1.04-.8 1.4-2.75 2.7-5.54 5.36-8.33 8-.94.9-2.24.86-3.1 0-.84-.85-.8-1.95.15-2.87l8.2-7.92a2.2 2.2 0 012.42-.53c.78.28 1.3 1.04 1.46 1.92z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M28.62 35.97H17.54c-.24 0-.52.04-.73-.06-.18-.08-.42-.32-.41-.49 0-.2.19-.48.38-.6.19-.1.47-.07.72-.07h22.15c.52 0 1.34-.25 1.36.6 0 .92-.87.6-1.4.6-3.66.03-7.33.02-11 .02z"
+      }
+    }, {
+      "tag": "defs",
+      "attrs": {},
+      "children": [{
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint0_linear_25_21041",
+          "x1": "17.71",
+          "x2": "21.19",
+          "y1": "27.19",
+          "y2": "39.3"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint1_linear_25_21041",
+          "x1": "0",
+          "x2": "19.39",
+          "y1": "14.68",
+          "y2": "34.33"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint2_linear_25_21041",
+          "x1": "15.84",
+          "x2": "29.85",
+          "y1": "4.6",
+          "y2": "18.9"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint3_linear_25_21041",
+          "x1": "11.22",
+          "x2": "24.11",
+          "y1": "0",
+          "y2": "13.05"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint4_linear_25_21041",
+          "x1": "21.73",
+          "x2": "34.54",
+          "y1": "10.19",
+          "y2": "23.44"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint5_linear_25_21041",
+          "x1": "16.4",
+          "x2": "16.54",
+          "y1": "34.72",
+          "y2": "37.43"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }]
+    }]
+  },
+  "name": "empt1",
+  "theme": "shadow"
+};
+exports.Z = Empt1Shadow;
+
+/***/ }),
+
+/***/ 52204:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var EmptShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 27 37",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M17.79.02v4A5.03 5.03 0 0023 9.24h4v23.5c0 2.1-1.22 3.3-3.3 3.31H3.3c-2.05 0-3.28-1.23-3.28-3.29v-8.23c0-7.05.03-14.11-.02-21.17A3.21 3.21 0 013.37 0c4.62.06 9.23.02 13.85.02h.57zM3.53 31.87h19.95v-1.76H3.53v1.76zm0-4.63h19.95V25.5H3.52v1.74zM8 14.94H6.76c-.24.37.22.87-.4 1.13-.65.26-.65-.49-1.08-.53l-.87.86c.05.44.78.46.53 1.1-.26.63-.8.13-1.14.4v1.21c.36.27.87-.21 1.13.4.27.63-.46.66-.52 1.1l.86.89c.4-.13.45-.69.94-.6.72.11.41.74.55 1.17h1.16c.3-.36-.2-.87.44-1.13.65-.26.66.47 1.1.5l.88-.82c-.1-.46-.78-.49-.53-1.1.25-.64.8-.13 1.14-.4v-1.23c-.37-.24-.9.24-1.15-.42-.24-.63.5-.64.54-1l-.87-.94c-.42.09-.43.7-.98.58-.72-.17-.31-.77-.49-1.17zm.56-2.57c-.18-.32-.47-.6-.46-.87.04-.68.68-.32 1.05-.47V9.92c-.31-.26-.81.19-1.04-.39-.22-.57.42-.6.48-.96l-.8-.8c-.39.03-.4.68-.95.48-.57-.22-.17-.71-.38-1.04H5.35c-.24.34.2.83-.4 1.04-.56.19-.57-.44-.95-.5l-.8.82c.06.37.72.4.47.97-.24.56-.73.12-1.03.37v1.15h.89c.08.2.27.44.22.56-.13.27-.37.48-.55.7l.8.84c.38-.1.42-.74 1-.48.55.25.08.74.34 1.02h1.11c.23-.33-.2-.82.4-1.04.56-.2.57.46.91.5l.8-.79zm1.52.98c.3.17.67-.13.85.32.18.46-.34.5-.38.71l.62.74c.34-.1.38-.58.83-.4.45.2.08.62.3.85h.9c.18-.27-.14-.65.3-.84.47-.2.5.34.92.4.04-.06.13-.2.23-.32l.3-.33c-.08-.33-.56-.37-.38-.82.18-.46.61-.08.85-.33v-.85c-.27-.2-.68.13-.86-.34-.17-.45.38-.48.39-.72l-.7-.71c-.26.05-.28.55-.73.38-.47-.17-.14-.58-.32-.84h-.9c-.18.29.13.67-.32.84-.45.17-.48-.33-.8-.39l-.16.14-.5.4c.08.42.6.46.4.92-.18.45-.6.1-.84.32v.87zm13.41-.14v-1.75h-1.75v1.75h1.75zm-1.76 4.68h1.77v-1.75h-1.77v1.75zm1.76 4.68V20.8h-1.75v1.77h1.75z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M19.79.09l7.1 7.1c-.11.02-.23.04-.34.04h-3.69a3 3 0 01-3.07-3.06V.09z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M8.63 18.5c0 .7-.56 1.25-1.25 1.26-.7 0-1.26-.55-1.26-1.24-.01-.71.56-1.29 1.27-1.28.68.01 1.24.58 1.24 1.27z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M5.9 9.3c.63.01 1.14.52 1.14 1.15 0 .64-.51 1.15-1.14 1.14-.65 0-1.15-.5-1.15-1.14 0-.63.51-1.14 1.14-1.14z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M13.68 12.92c0 .53-.43.93-.97.92a.94.94 0 01-.9-.95c0-.5.42-.92.93-.92.53 0 .95.42.94.95z"
+      }
+    }, {
+      "tag": "defs",
+      "attrs": {},
+      "children": [{
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint0_linear_25_21030",
+          "x1": "0",
+          "x2": "36.32",
+          "y1": "0",
+          "y2": "26.62"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint1_linear_25_21030",
+          "x1": "19.79",
+          "x2": "27.33",
+          "y1": ".09",
+          "y2": "7.44"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint2_linear_25_21030",
+          "x1": "6.12",
+          "x2": "8.77",
+          "y1": "17.24",
+          "y2": "19.84"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint3_linear_25_21030",
+          "x1": "4.75",
+          "x2": "7.17",
+          "y1": "9.31",
+          "y2": "11.68"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }, {
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint4_linear_25_21030",
+          "x1": "11.81",
+          "x2": "13.78",
+          "y1": "11.97",
+          "y2": "13.91"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#F539F8"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".42",
+            "stop-color": "#C342F9"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "#5356FB"
+          }
+        }]
+      }]
+    }]
+  },
+  "name": "empt",
+  "theme": "shadow"
+};
+exports.Z = EmptShadow;
+
+/***/ }),
+
 /***/ 42045:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -1250,6 +2160,52 @@ var FillIconBb9Full = {
   "theme": "full"
 };
 exports.Z = FillIconBb9Full;
+
+/***/ }),
+
+/***/ 71853:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var FormsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 33 25",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M31.43 12.5c0-1.67-.07-3.11-.17-4.35-.3-3.52-3.1-5.98-6.63-6.2-2.06-.13-4.7-.23-7.96-.23-3.24 0-5.89.1-7.95.23-3.53.22-6.34 2.68-6.63 6.2a52.42 52.42 0 00.02 8.87c.3 3.43 3 5.81 6.43 6.03 2.05.13 4.73.23 8.13.23 3.41 0 6.1-.1 8.14-.23 3.43-.22 6.13-2.6 6.43-6.03.11-1.27.19-2.78.19-4.52z",
+        "fill-opacity": ".1",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M17.81 14.77l3.97 2.83 3.97-2.83M25.75 10.23l-3.97-2.84-3.97 2.84",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }]
+  },
+  "name": "forms",
+  "theme": "shadow"
+};
+exports.Z = FormsShadow;
 
 /***/ }),
 
@@ -40229,6 +41185,199 @@ exports.Z = FullIconCc9Full;
 
 /***/ }),
 
+/***/ 43398:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Gradit1Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1014 919",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "g",
+      "attrs": {
+        "filter": "url(#filter0_f_801_83213)",
+        "opacity": ".4"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M133.84 591.96C168.4 371.7 14.24 161.7 250.9 166.77c259.24 5.56 329.8-139.78 545.44 37.74 186.79 153.77 98.06 399.9-115.68 485.58-125.47 50.3-319 97.75-339.86 102.8-1.3.32-2.32.6-3.61.96-22.17 6.1-244.65 61.14-203.35-201.9z"
+        }
+      }]
+    }, {
+      "tag": "defs",
+      "attrs": {},
+      "children": [{
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint0_linear_801_83213",
+          "x1": "73",
+          "x2": "526.5",
+          "y1": "326.5",
+          "y2": "191.5"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#12D0FA"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": ".34",
+            "stop-color": "#7612FA"
+          }
+        }]
+      }, {
+        "tag": "filter",
+        "attrs": {
+          "color-interpolation-filters": "sRGB",
+          "filterUnits": "userSpaceOnUse",
+          "height": "917.81",
+          "id": "filter0_f_801_83213",
+          "width": "1013.28",
+          "x": ".45",
+          "y": ".45"
+        },
+        "children": [{
+          "tag": "feFlood",
+          "attrs": {
+            "flood-opacity": "0",
+            "result": "BackgroundImageFix"
+          }
+        }, {
+          "tag": "feBlend",
+          "attrs": {
+            "in2": "BackgroundImageFix",
+            "in": "SourceGraphic",
+            "result": "shape"
+          }
+        }, {
+          "tag": "feGaussianBlur",
+          "attrs": {
+            "result": "effect1_foregroundBlur_801_83213",
+            "stdDeviation": "57.77"
+          }
+        }]
+      }]
+    }]
+  },
+  "name": "gradit1",
+  "theme": "shadow"
+};
+exports.Z = Gradit1Shadow;
+
+/***/ }),
+
+/***/ 62384:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Gradit2Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1032 937",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "g",
+      "attrs": {
+        "filter": "url(#filter0_f_801_83212)",
+        "opacity": ".4"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M196.94 660.34C412.13 473.41 43.31 244.2 326.63 249.2 636.97 254.65 843.1-39.23 904 229.29c58.58 258.3-129.5-83.46-38 295.21 104.65 433.04-476.29 274.35-596.08 237.4-14.07-4.33-28.8-4.28-42.99-.35-57.74 16-199.58 46.12-29.99-101.2z",
+          "fill-opacity": ".8"
+        }
+      }]
+    }, {
+      "tag": "defs",
+      "attrs": {},
+      "children": [{
+        "tag": "linearGradient",
+        "attrs": {
+          "gradientUnits": "userSpaceOnUse",
+          "id": "paint0_linear_801_83212",
+          "x1": "641.5",
+          "x2": "812.5",
+          "y1": "139",
+          "y2": "693"
+        },
+        "children": [{
+          "tag": "stop",
+          "attrs": {
+            "stop-color": "#FA12E3"
+          }
+        }, {
+          "tag": "stop",
+          "attrs": {
+            "offset": "1",
+            "stop-color": "gold"
+          }
+        }]
+      }, {
+        "tag": "filter",
+        "attrs": {
+          "color-interpolation-filters": "sRGB",
+          "filterUnits": "userSpaceOnUse",
+          "height": "935.82",
+          "id": "filter0_f_801_83212",
+          "width": "1030.28",
+          "x": ".82",
+          "y": ".47"
+        },
+        "children": [{
+          "tag": "feFlood",
+          "attrs": {
+            "flood-opacity": "0",
+            "result": "BackgroundImageFix"
+          }
+        }, {
+          "tag": "feBlend",
+          "attrs": {
+            "in2": "BackgroundImageFix",
+            "in": "SourceGraphic",
+            "result": "shape"
+          }
+        }, {
+          "tag": "feGaussianBlur",
+          "attrs": {
+            "result": "effect1_foregroundBlur_801_83212",
+            "stdDeviation": "57.77"
+          }
+        }]
+      }]
+    }]
+  },
+  "name": "gradit2",
+  "theme": "shadow"
+};
+exports.Z = Gradit2Shadow;
+
+/***/ }),
+
 /***/ 80876:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -41462,6 +42611,877 @@ exports.Z = IconComp93Shadow;
 
 /***/ }),
 
+/***/ 57558:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var IconCreateTimeShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1024 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M832 1024H192C85.95 1024 0 938.05 0 832V192C0 85.95 85.95 0 192 0h640c106.05 0 192 85.95 192 192v640c0 106.05-85.95 192-192 192zm0 0"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M624 298.66H314.66A58.74 58.74 0 00256 357.34v239.97c0 35.3 28.7 64 64 64h106.66c11.8.03 21.34-9.54 21.34-21.31s-9.54-21.34-21.34-21.34H320a21.36 21.36 0 01-21.34-21.35V426.66H640a21.34 21.34 0 1042.69 0v-69.32c-.03-32.35-26.34-58.68-58.69-58.68zm0 0"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M362.66 362.66a21.36 21.36 0 01-21.35-21.35v-64a21.36 21.36 0 0142.69.03v64a21.32 21.32 0 01-21.34 21.32zm213.34 0a21.36 21.36 0 01-21.34-21.35v-64a21.34 21.34 0 0142.68.03v64A21.32 21.32 0 01576 362.66zm53.34 128c-76.44 0-138.65 62.2-138.65 138.65S552.87 768 629.34 768 768 705.79 768 629.34s-62.21-138.68-138.66-138.68zm53.32 160h-32v32c0 11.77-9.57 21.34-21.35 21.34S608 694.46 608 682.66v-32h-32a21.33 21.33 0 110-42.66h32v-32c0-11.77 9.57-21.34 21.34-21.34s21.35 9.57 21.35 21.34v32h32a21.34 21.34 0 01-.03 42.66zm0 0"
+      }
+    }]
+  },
+  "name": "IconCreateTime",
+  "theme": "shadow"
+};
+exports.Z = IconCreateTimeShadow;
+
+/***/ }),
+
+/***/ 47967:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var IconLikeShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1024 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M615.2 926.1H408.5c-171.2 0-310-138.8-310-310V409.4c0-171.2 138.8-310 310-310h206.7c171.2 0 310 138.8 310 310v206.7c0 171.2-138.8 310-310 310z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M393.9 691c-18.3 0-33.2-14.8-33.2-33.2v-192c0-18.3 14.8-33.2 33.2-33.2 18.3 0 33.2 14.8 33.2 33.2v192c-.1 18.3-14.9 33.2-33.2 33.2zm104 0h142.9c18.8 0 35.2-12.7 40-30.8L727 484.5c6.9-26.2-12.9-51.9-40-51.9H585c-15.9 0-25.9-17.2-17.9-31l21.4-37.1a40.1 40.1 0 00-14.7-54.8 40.1 40.1 0 00-54.8 14.7l-50.9 88.2c-7.6 13.1-11.6 28-11.6 43.1l-.1 193.9a41.5 41.5 0 0041.5 41.4z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M414.5 596.3v58.6c0 11.4-9.3 20.7-20.7 20.7-11.5 0-20.7-9.3-20.7-20.7v-18.4a112.9 112.9 0 0041.1-42.9c.2.9.3 1.7.3 2.7z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M414.3 593.6c-9.7 17.7-23.9 32.5-41.1 42.9v-40.2c0-11.5 9.2-20.7 20.7-20.7 5.7 0 10.8 2.3 14.6 6 3.2 3.1 5.3 7.3 5.8 12z"
+      }
+    }]
+  },
+  "name": "IconLike",
+  "theme": "shadow"
+};
+exports.Z = IconLikeShadow;
+
+/***/ }),
+
+/***/ 19268:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var IconUpdateTimeShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1024 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M832 1024H192C85.95 1024 0 938.05 0 832V192C0 85.95 85.95 0 192 0h640c106.05 0 192 85.95 192 192v640c0 106.05-85.95 192-192 192zm0 0"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M512 256c-76.45 0-138.66 62.21-138.66 138.66S435.55 533.3 512 533.3s138.66-62.2 138.66-138.65S588.45 256 512 256zm47.07 185.76c-4.16 4.16-9.6 6.24-15.07 6.24s-10.91-2.08-15.07-6.24l-32-32c-4-4-6.24-9.4-6.24-15.07v-53.35c-.03-11.8 9.54-21.34 21.31-21.34s21.34 9.54 21.34 21.34v44.52l25.76 25.76a21.29 21.29 0 01-.03 30.14zm0 0"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M730.66 341.34H704c-11.74 0-21.34 9.6-21.34 21.35S692.26 384 704 384h21.34v256H298.66V384H320c11.74 0 21.34-9.6 21.34-21.34s-9.6-21.35-21.34-21.35h-26.66c-20.47.03-37.34 16.87-37.34 37.35V645.3a37.53 37.53 0 0037.34 37.35H730.7a37.53 37.53 0 0037.34-37.35V378.66a37.56 37.56 0 00-37.37-37.32zm0 0M618.66 746.66A21.4 21.4 0 01597.3 768H426.66c-11.75 0-21.35-9.6-21.35-21.34s9.6-21.35 21.35-21.35h42.65v-42.65h85.35v42.65h42.65a21.44 21.44 0 0121.35 21.35zm0 0"
+      }
+    }]
+  },
+  "name": "IconUpdateTime",
+  "theme": "shadow"
+};
+exports.Z = IconUpdateTimeShadow;
+
+/***/ }),
+
+/***/ 62337:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ImgDefault2Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "preserveAspectRatio": "xMinYMin meet",
+      "viewBox": "0 0 1024 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M511.95 554.37L147.08 914.6a30 30 0 11-42.16-42.7L491.1 490.65a30 30 0 0142.37.22l134.4 135.4a30 30 0 11-42.57 42.27L511.95 554.37z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M462.08 914.6a30 30 0 11-42.16-42.7L806.1 490.65a30 30 0 0142.6.45l150.18 154.7a30 30 0 01-43.05 41.8l-129.1-133-364.64 360zM243 431c-60.75 0-110-49.25-110-110s49.25-110 110-110 110 49.25 110 110-49.25 110-110 110zm0-60a50 50 0 100-100 50 50 0 000 100z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M60 159v706h904V159H60zm0-60h904a60 60 0 0160 60v706a60 60 0 01-60 60H60a60 60 0 01-60-60V159a60 60 0 0160-60z"
+      }
+    }]
+  },
+  "name": "img_default2",
+  "theme": "shadow"
+};
+exports.Z = ImgDefault2Shadow;
+
+/***/ }),
+
+/***/ 34819:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ImgDefaultShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1024 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M256 332.8a76.8 76.8 0 10153.6 0 76.8 76.8 0 00-153.6 0zM64.2 905.01a53.76 53.76 0 012.3-72.6l525.32-408.99a47.82 47.82 0 0165.59-1.53L955.9 691.7c20.32 18.18 22.57 51.36 5.27 72.65a48.13 48.13 0 01-69.38 5.53L626.53 529.97 133.58 907.42a45.72 45.72 0 01-33.23 14.18 48.8 48.8 0 01-36.2-16.59z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M231.94 921.6h695.7c24.94 0 45.16-20.48 45.16-45.82V326.04h-90.37v503.91h-650.5v91.65zm-90.37-274.84H51.2V97.02c0-25.34 20.22-45.82 45.16-45.82h695.76v91.65H141.57v503.9z"
+      }
+    }]
+  },
+  "name": "img_default",
+  "theme": "shadow"
+};
+exports.Z = ImgDefaultShadow;
+
+/***/ }),
+
+/***/ 71922:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var JsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M3 3h18v18H3V3m4.73 15.04c.4.85 1.19 1.55 2.54 1.55 1.5 0 2.53-.8 2.53-2.55v-5.78h-1.7V17c0 .86-.35 1.08-.9 1.08-.58 0-.82-.4-1.09-.87l-1.38.83m5.98-.18c.5.98 1.51 1.73 3.09 1.73 1.6 0 2.8-.83 2.8-2.36 0-1.41-.81-2.04-2.25-2.66l-.42-.18c-.73-.31-1.04-.52-1.04-1.02 0-.41.31-.73.81-.73.48 0 .8.21 1.09.73l1.31-.87c-.55-.96-1.33-1.33-2.4-1.33-1.51 0-2.48.96-2.48 2.23 0 1.38.81 2.03 2.03 2.55l.42.18c.78.34 1.24.55 1.24 1.13 0 .48-.45.83-1.15.83-.83 0-1.31-.43-1.67-1.03l-1.38.8z"
+      }
+    }]
+  },
+  "name": "js",
+  "theme": "shadow"
+};
+exports.Z = JsShadow;
+
+/***/ }),
+
+/***/ 40966:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var JsonShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1024 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M213.33 128h85.34v85.33h-85.34v213.34A85.33 85.33 0 01128 512a85.33 85.33 0 0185.33 85.33v213.34h85.34V896h-85.34C167.68 884.48 128 857.6 128 810.67V640a85.33 85.33 0 00-85.33-85.33H0v-85.34h42.67A85.33 85.33 0 00128 384V213.33A85.33 85.33 0 01213.33 128m597.34 0A85.33 85.33 0 01896 213.33V384a85.33 85.33 0 0085.33 85.33H1024v85.34h-42.67A85.33 85.33 0 00896 640v170.67A85.33 85.33 0 01810.67 896h-85.34v-85.33h85.34V597.33A85.33 85.33 0 01896 512a85.33 85.33 0 01-85.33-85.33V213.33h-85.34V128h85.34M512 640a42.67 42.67 0 0142.67 42.67A42.67 42.67 0 01512 725.33a42.67 42.67 0 01-42.67-42.66A42.67 42.67 0 01512 640m-170.67 0A42.67 42.67 0 01384 682.67a42.67 42.67 0 01-42.67 42.66 42.67 42.67 0 01-42.66-42.66A42.67 42.67 0 01341.33 640m341.34 0a42.67 42.67 0 0142.66 42.67 42.67 42.67 0 01-42.66 42.66A42.67 42.67 0 01640 682.67 42.67 42.67 0 01682.67 640z"
+      }
+    }]
+  },
+  "name": "json",
+  "theme": "shadow"
+};
+exports.Z = JsonShadow;
+
+/***/ }),
+
+/***/ 83998:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var JsxShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 1110 1024",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M946.94 418.31a23.17 23.17 0 0023.1-23.24V116.2C970.04 52.15 918.21 0 854.55 0H115.48C51.82 0 0 52.15 0 116.2v790.15c0 64.05 51.82 116.2 115.48 116.2h739.07c63.66 0 115.48-52.15 115.48-116.2V766.91a23.17 23.17 0 00-23.09-23.24 23.17 23.17 0 00-23.1 23.24v139.44c0 38.45-31.09 69.72-69.29 69.72H115.48c-38.2 0-69.29-31.28-69.29-69.72V232.4h877.66v162.67a23.18 23.18 0 0023.09 23.24zM46.19 185.91V116.2c0-38.45 31.09-69.72 69.29-69.72h739.07c38.2 0 69.3 31.27 69.3 69.72v69.72H46.19zm69.29-46.47a23.17 23.17 0 0023.1-23.24 23.17 23.17 0 00-23.1-23.24 23.17 23.17 0 00-23.1 23.24 23.17 23.17 0 0023.1 23.24zm92.38 0a23.17 23.17 0 0023.1-23.24 23.17 23.17 0 00-23.1-23.24 23.17 23.17 0 00-23.09 23.24 23.17 23.17 0 0023.1 23.24zm92.39 0a23.17 23.17 0 0023.1-23.24 23.17 23.17 0 00-23.1-23.24 23.17 23.17 0 00-23.1 23.24 23.17 23.17 0 0023.1 23.24zm492.22 419.2c56.55 9.34 85.18 32.49 85.18 68.84 0 39.08-40.6 69.72-92.42 69.72-49.11 0-88.75-27.76-92.25-64.57a23.17 23.17 0 0120.78-25.33c12.85-1.67 23.98 8.13 25.18 20.92.93 9.38 18.94 22.49 46.24 22.49 27.86 0 46.28-13.99 46.28-23.24 0-6.97-8.03-16.64-46.43-23l-3.08-24.08-3.74 22.91c-56.59-9.25-85.33-32.4-85.33-68.79 0-39.08 40.62-69.72 92.44-69.72 49.1 0 88.73 27.75 92.25 64.57a23.17 23.17 0 01-20.8 25.33c-12.98 1.48-23.96-8.19-25.16-20.92-.93-9.39-18.94-22.45-46.25-22.45-27.85-.05-46.28 13.94-46.28 23.2 0 5.7 6.05 16.3 46.56 22.95l6.83 1.17zm252.68 22.4l58.84 78.97a23.32 23.32 0 01-4.61 32.54 22.96 22.96 0 01-32.34-4.66l-50.76-68.14-50.81 68.14a23 23 0 01-32.34 4.66 23.32 23.32 0 01-4.61-32.55l58.89-78.97-58.95-79.05a23.32 23.32 0 014.62-32.54 22.91 22.91 0 0132.34 4.65l50.86 68.19 50.8-68.2a23.03 23.03 0 0132.34-4.64 23.32 23.32 0 014.63 32.55l-58.9 79.05zM623.6 464.8a23.17 23.17 0 0123.1 23.24v139.44c0 38.44-31.1 69.72-69.3 69.72-38.2 0-69.29-31.28-69.29-69.72a23.17 23.17 0 0123.1-23.24 23.17 23.17 0 0123.1 23.24 23.17 23.17 0 0023.1 23.24 23.17 23.17 0 0023.09-23.24V488.03a23.17 23.17 0 0123.1-23.24z"
+      }
+    }]
+  },
+  "name": "jsx",
+  "theme": "shadow"
+};
+exports.Z = JsxShadow;
+
+/***/ }),
+
+/***/ 49967:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var LockShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 512 512",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M403.88 196.56h-9.48v-44.39C394.4 70.07 329.25 1.5 247.8.03c-2.22-.04-6.67-.04-8.9 0C157.5 1.49 92.35 70.08 92.35 152.18v44.38h-9.49c-14.62 0-26.54 15.09-26.54 33.71V452.9c0 18.61 11.92 33.83 26.54 33.83h321.03c14.62 0 26.54-15.22 26.54-33.83V230.27c0-18.62-11.92-33.7-26.54-33.7zm-130.44 144.8v67.27c0 7.7-6.45 14.23-14.16 14.23h-31.83a14.36 14.36 0 01-14.16-14.23v-67.27a40.03 40.03 0 01-11.83-28.8c0-21.33 16.5-39.66 37.46-40.5 2.22-.1 6.67-.1 8.9 0 20.96.84 37.45 19.17 37.45 40.5a40.04 40.04 0 01-11.83 28.8zm58.45-144.8H154.85v-44.38c0-48.91 39.74-89.35 88.52-89.35 48.77 0 88.52 40.44 88.52 89.35v44.38z"
+      }
+    }]
+  },
+  "name": "lock",
+  "theme": "shadow"
+};
+exports.Z = LockShadow;
+
+/***/ }),
+
+/***/ 83262:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var MdShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 12 16",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12a1 1 0 01-1 1H6v2l-1.5-1.5L3 16v-2H1a1 1 0 01-1-1V1a1 1 0 011-1h10a1 1 0 011 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z",
+        "fill-rule": "evenodd"
+      }
+    }]
+  },
+  "name": "md",
+  "theme": "shadow"
+};
+exports.Z = MdShadow;
+
+/***/ }),
+
+/***/ 49289:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var PackageShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M3 3v18h18V3H3m3 3h12v12h-3V9h-3v9H6V6z"
+      }
+    }]
+  },
+  "name": "package",
+  "theme": "shadow"
+};
+exports.Z = PackageShadow;
+
+/***/ }),
+
+/***/ 61547:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ProjectsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 32 32",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M30.6 15.85c0 3.32-.14 6-.33 8.09a6.85 6.85 0 01-6.33 6.36c-2.05.17-4.7.3-8.1.3-3.37 0-6.04-.13-8.08-.3a6.85 6.85 0 01-6.33-6.36 91.13 91.13 0 01-.33-8.09c0-3.19.13-5.8.3-7.84.31-3.6 3.01-6.3 6.6-6.6 2.05-.18 4.66-.31 7.85-.31",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7b73ae"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M9.83 15.54c3.56 2.4 5.1 4.55 5.1 4.55s1.53-3.5 4.48-7.36C22.58 8.57 24.94 7 24.94 7",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7b73ae"
+      }
+    }]
+  },
+  "name": "projects",
+  "theme": "shadow"
+};
+exports.Z = ProjectsShadow;
+
+/***/ }),
+
+/***/ 18184:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var RefreshShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 20 20",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M15.83 1.75a.75.75 0 01.75.75v4.17a.75.75 0 01-.75.75h-4.16a.75.75 0 010-1.5h2.61a5.92 5.92 0 10.68 7.3.75.75 0 111.26.82 7.42 7.42 0 11-1.14-9.44V2.5a.75.75 0 01.75-.75z",
+        "data-follow-fill": "currentColor",
+        "fill-rule": "evenodd"
+      }
+    }]
+  },
+  "name": "refresh",
+  "theme": "shadow"
+};
+exports.Z = RefreshShadow;
+
+/***/ }),
+
+/***/ 40420:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ReloadShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M15.83 7.74a.18.18 0 00.11.3l4.08.43a.18.18 0 00.2-.2l-.5-3.98a.18.18 0 00-.3-.1l-3.59 3.55zm-6.3 9.16a.18.18 0 00-.16-.27l-4.09.35a.18.18 0 00-.16.23l1.25 3.82a.18.18 0 00.32.04l2.84-4.17z",
+        "data-follow-fill": "currentColor"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M14.6 5.02a7.38 7.38 0 00-9.9 8.56.75.75 0 11-1.46.34 8.88 8.88 0 0114.78-8.45.75.75 0 11-1.04 1.08 7.37 7.37 0 00-2.38-1.53zm5.4 6.1a.75.75 0 01.75.76 8.88 8.88 0 01-13.96 7.26.75.75 0 11.86-1.22 7.38 7.38 0 0011.6-6.05.75.75 0 01.75-.75z",
+        "data-follow-fill": "currentColor",
+        "fill-rule": "evenodd"
+      }
+    }]
+  },
+  "name": "reload",
+  "theme": "shadow"
+};
+exports.Z = ReloadShadow;
+
+/***/ }),
+
+/***/ 9635:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var SprintsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 29 27",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M22 21c-1.28 0-2.33.02-3.16.05-1.54.06-2.84.9-2.84 2.45 0 1.55 1.3 2.4 2.84 2.45a93.8 93.8 0 006.32 0c1.55-.05 2.84-.9 2.84-2.45 0-1.55-1.3-2.4-2.84-2.45-.83-.03-1.88-.05-3.16-.05zM24 13.5v-.1c-.02-1.57-1.55-2.26-3.13-2.31a205.63 205.63 0 00-12.74 0c-1.58.05-3.1.74-3.13 2.32a6.95 6.95 0 000 .24c.03 1.54 1.53 2.22 3.07 2.26a207.52 207.52 0 0012.85 0c1.55-.04 3.05-.72 3.08-2.26v-.15zM7 1c-1.28 0-2.33.02-3.16.05C2.3 1.11 1 1.95 1 3.5c0 1.55 1.3 2.4 2.84 2.45a93.98 93.98 0 006.32 0C11.7 5.9 13 5.05 13 3.5c0-1.55-1.3-2.4-2.84-2.45C9.33 1.02 8.28 1 7 1z",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }]
+  },
+  "name": "sprints",
+  "theme": "shadow"
+};
+exports.Z = SprintsShadow;
+
+/***/ }),
+
+/***/ 18814:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var SvgShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 16 16",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M15 15H1V8a2.05 2.05 0 012.05-2.05 2.05 2.05 0 012.9-2.9 2.05 2.05 0 014.1 0 2.05 2.05 0 112.9 2.9A2.05 2.05 0 0115 8v7zm-.94-6.99a1.1 1.1 0 00-1.9-.8H9.9l1.61-1.6a1.11 1.11 0 10-1.11-1.11l-1.6 1.6V3.85a1.11 1.11 0 10-1.57 0V6.1L5.62 4.5A1.11 1.11 0 104.5 5.61l1.6 1.6H3.85a1.1 1.1 0 00-1.9.79v.01h12.12zm-5.31.46l-.76 3.66-.76-3.66H6.16l1.3 6.24h1.06l1.3-6.24H8.74zm2.9 2.59v1.07h.75v.76a.76.76 0 01-1.51 0V10.3a.76.76 0 011.51 0h1.07a1.83 1.83 0 00-3.66 0v2.58a1.83 1.83 0 103.66 0v-1.82h-1.83zm-8.6.53a1.82 1.82 0 001.29.54.76.76 0 01.54.22.76.76 0 11-1.3.54H2.5a1.83 1.83 0 103.12-1.3 1.82 1.82 0 00-1.3-.53.76.76 0 01-.52-.23.76.76 0 111.29-.53h1.07a1.83 1.83 0 10-3.12 1.3z"
+      }
+    }]
+  },
+  "name": "svg",
+  "theme": "shadow"
+};
+exports.Z = SvgShadow;
+
+/***/ }),
+
+/***/ 45764:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var TimeTrackingShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 33 34",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M14.15 4.58V19.9l10.5 8.8s7.66-7.63 3.12-16.18c-4.83-9.08-13.62-7.94-13.62-7.94z",
+        "fill-opacity": ".1"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M1.1 18.48a13.9 13.9 0 1127.8 0 13.9 13.9 0 01-27.8 0z",
+        "fill-opacity": ".1",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M14.15 19.9l3.97 3.4M14.15 19.9v-8.51M23.23 2.88s4.14-.4 5.95 1.41c1.82 1.82 1.42 5.96 1.42 5.96",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }]
+  },
+  "name": "time-tracking",
+  "theme": "shadow"
+};
+exports.Z = TimeTrackingShadow;
+
+/***/ }),
+
+/***/ 54487:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var TsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "clip-rule": "evenodd",
+      "stroke-linejoin": "round",
+      "stroke-miterlimit": "1.41",
+      "viewBox": "0 0 500 500",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M46 46v408h408V46H46zm310.02 198.17c3.91.02 8.36.22 11.7.58 13.62 1.47 24.23 7.35 33.25 18.42 4.5 5.51 6.03 7.92 5.7 8.95-.2.67-3.29 2.88-13.1 9.38-9.62 6.4-12.72 8.31-13.44 8.31-.73 0-2.26-1.56-4.45-4.57-4.22-5.79-8.54-8.43-15.2-9.31-7.17-.95-13.6 1.3-16.76 5.89-2.69 3.9-3.1 10.2-.96 14.78 2.48 5.3 6.97 8.22 24.17 15.76 19.84 8.7 29.89 14.65 37.21 22.04 7.88 7.96 11.88 17.14 13.1 30.14.6 6.33-.13 13.84-1.94 19.94-4.44 14.96-16.44 25.92-34.02 31.07a65.94 65.94 0 01-13.85 2.6c-6.83.51-16.6.23-22.49-.62-14.88-2.17-31.69-10.83-40.06-20.65-4.12-4.82-9.37-12.76-9.37-14.15 0-.68.34-1.06 1.66-1.9 3.92-2.5 26.4-15.34 26.83-15.34.26 0 1.44 1.39 2.6 3.08 2.66 3.83 9.18 10.4 12.49 12.6 2.7 1.8 6.17 3.23 10.28 4.27 2.35.59 3.6.7 8.73.7 5.25-.01 6.33-.1 8.68-.73 6.2-1.67 11.05-5.13 13.1-9.35.9-1.83.93-2.06.93-6.48v-4.6l-1.1-2.18c-2.68-5.3-8.44-8.95-26.65-16.84-8.37-3.62-18.61-8.73-22.61-11.27-9.13-5.8-15.46-12.44-19.61-20.55-4.13-8.08-4.75-11.08-4.76-23.22 0-9.5-.02-9.39 1.94-15.45a45.34 45.34 0 019.48-15.94c8.05-8.56 19.81-14.06 32.4-15.15 1.61-.16 3.77-.21 6.12-.2zm-108.36 1.88c24.26 0 38.16.1 38.38.23.42.26.48 2.37.48 15.84v15.55l-24.2.08-24.2.1v68.7c0 37.8-.08 68.94-.19 69.22-.17.46-2.03.5-17.78.5h-17.59l-.18-.71c-.11-.4-.2-31.54-.2-69.22v-68.5l-24.2-.09-24.21-.09v-15.35c0-12.18.08-15.44.4-15.77.34-.34 12.7-.43 65.91-.48 10.26-.01 19.5-.02 27.58-.01z"
+      }
+    }]
+  },
+  "name": "ts",
+  "theme": "shadow"
+};
+exports.Z = TsShadow;
+
+/***/ }),
+
+/***/ 67079:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var TsconfigShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M10 2a.5.5 0 00-.5.42l-.37 2.65c-.63.25-1.17.59-1.69.98l-2.49-1a.49.49 0 00-.6.22l-2 3.46a.5.5 0 00.11.64L4.57 11a7.77 7.77 0 000 1.97l-2.1 1.66a.5.5 0 00-.13.64l2 3.46c.12.22.4.3.61.22l2.5-1.01c.51.4 1.05.74 1.68.99l.37 2.65a.5.5 0 00.5.42h4a.5.5 0 00.5-.42l.37-2.65a7.28 7.28 0 001.7-.99l2.48 1.01a.5.5 0 00.61-.22l2-3.46a.5.5 0 00-.12-.64l-2.1-1.66a7.77 7.77 0 000-1.97l2.1-1.63a.5.5 0 00.12-.64l-2-3.46a.49.49 0 00-.6-.22l-2.5 1a7.26 7.26 0 00-1.69-.98l-.37-2.65A.5.5 0 0014 2h-4zm5.17 6.05a4.33 4.33 0 01.87.07 2.13 2.13 0 011.07.61 2.82 2.82 0 01.4.55c.01.03-.73.53-1.18.8-.02.01-.08-.06-.16-.16a.97.97 0 00-.8-.48c-.52-.04-.85.23-.85.69a.63.63 0 00.07.31c.12.24.33.38 1 .67 1.22.53 1.74.88 2.07 1.37a2.48 2.48 0 01.2 2.08 2.3 2.3 0 01-1.9 1.36 5.24 5.24 0 01-1.3-.02 3.14 3.14 0 01-1.74-.9 3.02 3.02 0 01-.44-.66 1.28 1.28 0 01.16-.1l.63-.37.5-.29.1.15a2.3 2.3 0 00.65.63 1.59 1.59 0 001.66-.09.74.74 0 00.1-.95c-.14-.2-.4-.35-1.18-.68a4.23 4.23 0 01-1.61-1 2.25 2.25 0 01-.47-.85 3.42 3.42 0 01-.03-1.09 2.08 2.08 0 011.75-1.62 4.33 4.33 0 01.43-.03zm-6.15.08h3v1.4H9.8v6.33H8.23V9.53H6v-.68a6.73 6.73 0 01.02-.7c0-.02 1.36-.03 3-.02z"
+      }
+    }]
+  },
+  "name": "tsconfig",
+  "theme": "shadow"
+};
+exports.Z = TsconfigShadow;
+
+/***/ }),
+
+/***/ 28362:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var TsxShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 512 512",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M300.7 254.83c0-35.05-37.94-57.07-68.14-39.55-30.19 17.52-30.19 61.57 0 79.09 30.2 17.52 68.14-4.5 68.14-39.54zm104.01-84.17c30.06-143.7-36.07-188.79-148.5-84.78-105.81-99.2-181.16-67.93-149.1 84.17-147.86 44.58-138.06 128.49 1.2 171.35-31.86 140.08 27.66 191.19 147.9 85.37 116.64 104.61 178.54 55.63 146.7-85.97 151.9-51.5 138.28-126.05 1.8-170.14zm-20.44-5.41c-23.83-5.38-46.89-9.3-70.34-11.43a385.66 385.66 0 00-43.29-52.9c90.14-86.47 143.27-59.45 113.63 64.32zM151.6 282.48c8.92 19.04 20.64 36.47 29.46 51.1a642.55 642.55 0 01-46.3-6.61c5.28-14.77 10.9-29.6 16.84-44.49zm-1.2-51.7a793.24 793.24 0 01-17.44-45.1c17-3.52 33.66-6.72 48.1-7.81a756.8 756.8 0 00-30.66 52.9zm12.62 26.45c14.7-29.44 30.26-57.4 47.5-82.37 30.6-1.76 60.86-1.6 90.78.6 16.79 23.39 32.45 51.33 47.5 81.77-11.26 23.28-27.26 50.1-45.7 78.76-30.77 2.33-62.33 2-94.38 0a872.99 872.99 0 01-45.7-78.76zm197.2 25.25a738.1 738.1 0 0116.24 43.29 454.48 454.48 0 01-45.7 7.21 706.39 706.39 0 0029.46-50.5zm-29.46-104.61a593.45 593.45 0 0147.5 8.42 483.68 483.68 0 01-17.44 44.49 620.26 620.26 0 00-30.06-52.91zm-46.29-26.45a752.24 752.24 0 00-57.12 0 782.49 782.49 0 0128.26-34.87 441.03 441.03 0 0128.86 34.87zm-43.29-50.5a381.4 381.4 0 00-43.28 52.3 548.87 548.87 0 00-70.95 11.42C98.7 39 151.05 14.45 241.18 100.91zM113.72 321.55c-125.25-37.68-119.24-96.4-1.2-131.06a617.24 617.24 0 0025.85 65.53 680.5 680.5 0 00-24.65 65.53zm15.64 25.25c21.24 5.21 43.75 7.71 67.33 10.22 14.2 20.03 28.88 38.64 44.5 54.71-91.8 87.98-142.96 56.02-111.83-64.93zm126.25 49.9c-10.88-11.26-21.03-24.02-30.66-37.87 21.47.45 42.2.5 61.92 0a321.86 321.86 0 01-31.26 37.87zm15.03 15.03a519.78 519.78 0 0044.5-55.3 451.57 451.57 0 0067.33-10.23c31.4 128.73-25.62 147.74-111.83 65.53zm126.86-91.38c-6.44-20.74-14.57-42.23-24.05-64.33a611.02 611.02 0 0025.25-64.93c115.23 34.87 124.45 90.58-1.2 129.26z"
+      }
+    }]
+  },
+  "name": "tsx",
+  "theme": "shadow"
+};
+exports.Z = TsxShadow;
+
+/***/ }),
+
+/***/ 49482:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var WhiteBoardsShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 32 32",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M28.62 1.52l2.27 3.12-7.1 18.73L17 20.8l7.94-19 3.69-.3z",
+        "fill-opacity": ".1"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M21.65 26.86c-1.45 1.35-4.3 3.91-4.69 3.76-.4-.15-.66-3.94-.77-5.87-.05-.72.07-1.45.34-2.12l.43-1.12 7-17.91c.7-1.8 2.7-2.76 4.5-2.08a3.39 3.39 0 011.9 4.43l-6.92 17.7L22.9 25c-.27.72-.7 1.36-1.26 1.87z",
+        "fill-opacity": ".1"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M16.96 21.51l-.43 1.12c-.27.67-.39 1.4-.34 2.12.1 1.93.38 5.72.77 5.87.4.15 3.24-2.41 4.69-3.76.56-.51.99-1.15 1.26-1.87l.53-1.34m-6.48-2.14l7-17.91c.7-1.8 2.7-2.76 4.5-2.08v0a3.39 3.39 0 011.9 4.43l-6.92 17.7m-6.48-2.14s1.44-.21 3.43.44a8.4 8.4 0 013.05 1.7M3.37 6.35S2.23 8.6 2.23 15.99c0 7.4 1.14 9.65 1.14 9.65M6.2 3.5s1.42-.84 6.1-1.13c4.68-.28 7.24.29 7.24.29M6.2 28.48h5.96",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M1.1 3.8a2.55 2.55 0 105.1 0 2.55 2.55 0 00-5.1 0zM1.1 28.2a2.55 2.55 0 105.1 0 2.55 2.55 0 00-5.1 0z",
+        "fill-opacity": ".1",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "2",
+        "stroke": "#7F76B3"
+      }
+    }]
+  },
+  "name": "white-boards",
+  "theme": "shadow"
+};
+exports.Z = WhiteBoardsShadow;
+
+/***/ }),
+
+/***/ 69420:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ZipShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "viewBox": "0 0 48 48",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M4.63 12.75L24 5l19.37 7.75a1 1 0 01.63.93V42a1 1 0 01-1 1H5a1 1 0 01-1-1V13.68a1 1 0 01.63-.93z",
+        "stroke-linejoin": "round",
+        "stroke-width": "4",
+        "stroke": "currentColor"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M24 22v10",
+        "stroke-linecap": "round",
+        "stroke-width": "4",
+        "stroke": "currentColor"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "clip-rule": "evenodd",
+        "d": "M33 27c1.66 0 3-1.12 3-2.5S34.66 22 33 22h-2.7a.3.3 0 00-.3.3v2.2c0 1.38 1.34 2.5 3 2.5z",
+        "stroke-width": "4",
+        "stroke": "currentColor"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M30 22v10",
+        "stroke-linecap": "round",
+        "stroke-width": "4",
+        "stroke": "currentColor"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M12 22h6l-6 10h6",
+        "stroke-linecap": "round",
+        "stroke-linejoin": "round",
+        "stroke-width": "4",
+        "stroke": "currentColor"
+      }
+    }]
+  },
+  "name": "zip",
+  "theme": "shadow"
+};
+exports.Z = ZipShadow;
+
+/***/ }),
+
 /***/ 65572:
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -42481,6 +44501,18 @@ __webpack_require__.r(__webpack_exports__);
 
 // EXPORTS
 __webpack_require__.d(__webpack_exports__, {
+  AiShadow: function() { return /* reexport */ icons_AiShadow; },
+  BackShadow: function() { return /* reexport */ icons_BackShadow; },
+  ChatShadow: function() { return /* reexport */ icons_ChatShadow; },
+  CopyShadow: function() { return /* reexport */ icons_CopyShadow; },
+  CutShadow: function() { return /* reexport */ icons_CutShadow; },
+  DTsShadow: function() { return /* reexport */ icons_DTsShadow; },
+  DashboardsShadow: function() { return /* reexport */ icons_DashboardsShadow; },
+  DeleteShadow: function() { return /* reexport */ icons_DeleteShadow; },
+  DesignShadow: function() { return /* reexport */ icons_DesignShadow; },
+  DocsShadow: function() { return /* reexport */ icons_DocsShadow; },
+  Empt1Shadow: function() { return /* reexport */ icons_Empt1Shadow; },
+  EmptShadow: function() { return /* reexport */ icons_EmptShadow; },
   FillIconBb0Full: function() { return /* reexport */ icons_FillIconBb0Full; },
   FillIconBb10Full: function() { return /* reexport */ icons_FillIconBb10Full; },
   FillIconBb11Full: function() { return /* reexport */ icons_FillIconBb11Full; },
@@ -42505,6 +44537,7 @@ __webpack_require__.d(__webpack_exports__, {
   FillIconBb7Full: function() { return /* reexport */ icons_FillIconBb7Full; },
   FillIconBb8Full: function() { return /* reexport */ icons_FillIconBb8Full; },
   FillIconBb9Full: function() { return /* reexport */ icons_FillIconBb9Full; },
+  FormsShadow: function() { return /* reexport */ icons_FormsShadow; },
   Full1704531Full: function() { return /* reexport */ icons_Full1704531Full; },
   Full202312170Full: function() { return /* reexport */ icons_Full202312170Full; },
   Full2023121710Full: function() { return /* reexport */ icons_Full2023121710Full; },
@@ -43096,6 +45129,8 @@ __webpack_require__.d(__webpack_exports__, {
   FullIconCc7Full: function() { return /* reexport */ icons_FullIconCc7Full; },
   FullIconCc8Full: function() { return /* reexport */ icons_FullIconCc8Full; },
   FullIconCc9Full: function() { return /* reexport */ icons_FullIconCc9Full; },
+  Gradit1Shadow: function() { return /* reexport */ icons_Gradit1Shadow; },
+  Gradit2Shadow: function() { return /* reexport */ icons_Gradit2Shadow; },
   IconComp184Shadow: function() { return /* reexport */ icons_IconComp184Shadow; },
   IconComp202Shadow: function() { return /* reexport */ icons_IconComp202Shadow; },
   IconComp203Shadow: function() { return /* reexport */ icons_IconComp203Shadow; },
@@ -43131,7 +45166,29 @@ __webpack_require__.d(__webpack_exports__, {
   IconComp8Shadow: function() { return /* reexport */ icons_IconComp8Shadow; },
   IconComp90Shadow: function() { return /* reexport */ icons_IconComp90Shadow; },
   IconComp93Shadow: function() { return /* reexport */ icons_IconComp93Shadow; },
+  IconCreateTimeShadow: function() { return /* reexport */ icons_IconCreateTimeShadow; },
+  IconLikeShadow: function() { return /* reexport */ icons_IconLikeShadow; },
   IconProvider: function() { return /* binding */ IconProvider; },
+  IconUpdateTimeShadow: function() { return /* reexport */ icons_IconUpdateTimeShadow; },
+  ImgDefault2Shadow: function() { return /* reexport */ icons_ImgDefault2Shadow; },
+  ImgDefaultShadow: function() { return /* reexport */ icons_ImgDefaultShadow; },
+  JsShadow: function() { return /* reexport */ icons_JsShadow; },
+  JsonShadow: function() { return /* reexport */ icons_JsonShadow; },
+  JsxShadow: function() { return /* reexport */ icons_JsxShadow; },
+  LockShadow: function() { return /* reexport */ icons_LockShadow; },
+  MdShadow: function() { return /* reexport */ icons_MdShadow; },
+  PackageShadow: function() { return /* reexport */ icons_PackageShadow; },
+  ProjectsShadow: function() { return /* reexport */ icons_ProjectsShadow; },
+  RefreshShadow: function() { return /* reexport */ icons_RefreshShadow; },
+  ReloadShadow: function() { return /* reexport */ icons_ReloadShadow; },
+  SprintsShadow: function() { return /* reexport */ icons_SprintsShadow; },
+  SvgShadow: function() { return /* reexport */ icons_SvgShadow; },
+  TimeTrackingShadow: function() { return /* reexport */ icons_TimeTrackingShadow; },
+  TsShadow: function() { return /* reexport */ icons_TsShadow; },
+  TsconfigShadow: function() { return /* reexport */ icons_TsconfigShadow; },
+  TsxShadow: function() { return /* reexport */ icons_TsxShadow; },
+  WhiteBoardsShadow: function() { return /* reexport */ icons_WhiteBoardsShadow; },
+  ZipShadow: function() { return /* reexport */ icons_ZipShadow; },
   createFromIconfontCN: function() { return /* reexport */ create; },
   "default": function() { return /* reexport */ components_Icon; },
   getTwoToneColor: function() { return /* reexport */ getTwoToneColor; },
@@ -43148,8 +45205,8 @@ var IconContext = /*#__PURE__*/(0,external_React_.createContext)({});
 // EXTERNAL MODULE: ./node_modules/father/node_modules/@babel/runtime/helpers/extends.js
 var helpers_extends = __webpack_require__(92894);
 var extends_default = /*#__PURE__*/__webpack_require__.n(helpers_extends);
-// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FillIconBb0Full.js
-var icd_FillIconBb0Full = __webpack_require__(42045);
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/AiShadow.js
+var icd_AiShadow = __webpack_require__(33046);
 // EXTERNAL MODULE: ./node_modules/father/node_modules/@babel/runtime/helpers/slicedToArray.js
 var slicedToArray = __webpack_require__(84825);
 var slicedToArray_default = /*#__PURE__*/__webpack_require__.n(slicedToArray);
@@ -44312,6 +46369,210 @@ Icon.displayName = 'IcdIcon';
 Icon.getTwoToneColor = getTwoToneColor;
 Icon.setTwoToneColor = setTwoToneColor;
 /* harmony default export */ var IcdIcon = (Icon);
+;// CONCATENATED MODULE: ./src/icons/AiShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var AiShadow = function AiShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_AiShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_AiShadow = (/*#__PURE__*/external_React_.forwardRef(AiShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/BackShadow.js
+var icd_BackShadow = __webpack_require__(63753);
+;// CONCATENATED MODULE: ./src/icons/BackShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var BackShadow = function BackShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_BackShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_BackShadow = (/*#__PURE__*/external_React_.forwardRef(BackShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ChatShadow.js
+var icd_ChatShadow = __webpack_require__(51957);
+;// CONCATENATED MODULE: ./src/icons/ChatShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ChatShadow = function ChatShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ChatShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ChatShadow = (/*#__PURE__*/external_React_.forwardRef(ChatShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/CopyShadow.js
+var icd_CopyShadow = __webpack_require__(31165);
+;// CONCATENATED MODULE: ./src/icons/CopyShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var CopyShadow = function CopyShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_CopyShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_CopyShadow = (/*#__PURE__*/external_React_.forwardRef(CopyShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/CutShadow.js
+var icd_CutShadow = __webpack_require__(24639);
+;// CONCATENATED MODULE: ./src/icons/CutShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var CutShadow = function CutShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_CutShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_CutShadow = (/*#__PURE__*/external_React_.forwardRef(CutShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/DTsShadow.js
+var icd_DTsShadow = __webpack_require__(97348);
+;// CONCATENATED MODULE: ./src/icons/DTsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var DTsShadow = function DTsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_DTsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_DTsShadow = (/*#__PURE__*/external_React_.forwardRef(DTsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/DashboardsShadow.js
+var icd_DashboardsShadow = __webpack_require__(25107);
+;// CONCATENATED MODULE: ./src/icons/DashboardsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var DashboardsShadow = function DashboardsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_DashboardsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_DashboardsShadow = (/*#__PURE__*/external_React_.forwardRef(DashboardsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/DeleteShadow.js
+var icd_DeleteShadow = __webpack_require__(42319);
+;// CONCATENATED MODULE: ./src/icons/DeleteShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var DeleteShadow = function DeleteShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_DeleteShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_DeleteShadow = (/*#__PURE__*/external_React_.forwardRef(DeleteShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/DesignShadow.js
+var icd_DesignShadow = __webpack_require__(88771);
+;// CONCATENATED MODULE: ./src/icons/DesignShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var DesignShadow = function DesignShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_DesignShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_DesignShadow = (/*#__PURE__*/external_React_.forwardRef(DesignShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/DocsShadow.js
+var icd_DocsShadow = __webpack_require__(42209);
+;// CONCATENATED MODULE: ./src/icons/DocsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var DocsShadow = function DocsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_DocsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_DocsShadow = (/*#__PURE__*/external_React_.forwardRef(DocsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Empt1Shadow.js
+var icd_Empt1Shadow = __webpack_require__(61447);
+;// CONCATENATED MODULE: ./src/icons/Empt1Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Empt1Shadow = function Empt1Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Empt1Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Empt1Shadow = (/*#__PURE__*/external_React_.forwardRef(Empt1Shadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/EmptShadow.js
+var icd_EmptShadow = __webpack_require__(52204);
+;// CONCATENATED MODULE: ./src/icons/EmptShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var EmptShadow = function EmptShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_EmptShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_EmptShadow = (/*#__PURE__*/external_React_.forwardRef(EmptShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FillIconBb0Full.js
+var icd_FillIconBb0Full = __webpack_require__(42045);
 ;// CONCATENATED MODULE: ./src/icons/FillIconBb0Full.tsx
 
 // 为天地立心、为生民立命、为往圣继绝学、为万事开太平
@@ -44718,6 +46979,23 @@ var FillIconBb9Full = function FillIconBb9Full(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_FillIconBb9Full = (/*#__PURE__*/external_React_.forwardRef(FillIconBb9Full));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FormsShadow.js
+var icd_FormsShadow = __webpack_require__(71853);
+;// CONCATENATED MODULE: ./src/icons/FormsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var FormsShadow = function FormsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_FormsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_FormsShadow = (/*#__PURE__*/external_React_.forwardRef(FormsShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Full1704531Full.js
 var icd_Full1704531Full = __webpack_require__(17290);
 ;// CONCATENATED MODULE: ./src/icons/Full1704531Full.tsx
@@ -54765,6 +57043,40 @@ var FullIconCc9Full = function FullIconCc9Full(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_FullIconCc9Full = (/*#__PURE__*/external_React_.forwardRef(FullIconCc9Full));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Gradit1Shadow.js
+var icd_Gradit1Shadow = __webpack_require__(43398);
+;// CONCATENATED MODULE: ./src/icons/Gradit1Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Gradit1Shadow = function Gradit1Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Gradit1Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Gradit1Shadow = (/*#__PURE__*/external_React_.forwardRef(Gradit1Shadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Gradit2Shadow.js
+var icd_Gradit2Shadow = __webpack_require__(62384);
+;// CONCATENATED MODULE: ./src/icons/Gradit2Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Gradit2Shadow = function Gradit2Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Gradit2Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Gradit2Shadow = (/*#__PURE__*/external_React_.forwardRef(Gradit2Shadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconComp184Shadow.js
 var icd_IconComp184Shadow = __webpack_require__(80876);
 ;// CONCATENATED MODULE: ./src/icons/IconComp184Shadow.tsx
@@ -55360,9 +57672,420 @@ var IconComp93Shadow = function IconComp93Shadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_IconComp93Shadow = (/*#__PURE__*/external_React_.forwardRef(IconComp93Shadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconCreateTimeShadow.js
+var icd_IconCreateTimeShadow = __webpack_require__(57558);
+;// CONCATENATED MODULE: ./src/icons/IconCreateTimeShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var IconCreateTimeShadow = function IconCreateTimeShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_IconCreateTimeShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_IconCreateTimeShadow = (/*#__PURE__*/external_React_.forwardRef(IconCreateTimeShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconLikeShadow.js
+var icd_IconLikeShadow = __webpack_require__(47967);
+;// CONCATENATED MODULE: ./src/icons/IconLikeShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var IconLikeShadow = function IconLikeShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_IconLikeShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_IconLikeShadow = (/*#__PURE__*/external_React_.forwardRef(IconLikeShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/IconUpdateTimeShadow.js
+var icd_IconUpdateTimeShadow = __webpack_require__(19268);
+;// CONCATENATED MODULE: ./src/icons/IconUpdateTimeShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var IconUpdateTimeShadow = function IconUpdateTimeShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_IconUpdateTimeShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_IconUpdateTimeShadow = (/*#__PURE__*/external_React_.forwardRef(IconUpdateTimeShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ImgDefault2Shadow.js
+var icd_ImgDefault2Shadow = __webpack_require__(62337);
+;// CONCATENATED MODULE: ./src/icons/ImgDefault2Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ImgDefault2Shadow = function ImgDefault2Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ImgDefault2Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ImgDefault2Shadow = (/*#__PURE__*/external_React_.forwardRef(ImgDefault2Shadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ImgDefaultShadow.js
+var icd_ImgDefaultShadow = __webpack_require__(34819);
+;// CONCATENATED MODULE: ./src/icons/ImgDefaultShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ImgDefaultShadow = function ImgDefaultShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ImgDefaultShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ImgDefaultShadow = (/*#__PURE__*/external_React_.forwardRef(ImgDefaultShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/JsShadow.js
+var icd_JsShadow = __webpack_require__(71922);
+;// CONCATENATED MODULE: ./src/icons/JsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var JsShadow = function JsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_JsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_JsShadow = (/*#__PURE__*/external_React_.forwardRef(JsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/JsonShadow.js
+var icd_JsonShadow = __webpack_require__(40966);
+;// CONCATENATED MODULE: ./src/icons/JsonShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var JsonShadow = function JsonShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_JsonShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_JsonShadow = (/*#__PURE__*/external_React_.forwardRef(JsonShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/JsxShadow.js
+var icd_JsxShadow = __webpack_require__(83998);
+;// CONCATENATED MODULE: ./src/icons/JsxShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var JsxShadow = function JsxShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_JsxShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_JsxShadow = (/*#__PURE__*/external_React_.forwardRef(JsxShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/LockShadow.js
+var icd_LockShadow = __webpack_require__(49967);
+;// CONCATENATED MODULE: ./src/icons/LockShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var LockShadow = function LockShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_LockShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_LockShadow = (/*#__PURE__*/external_React_.forwardRef(LockShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/MdShadow.js
+var icd_MdShadow = __webpack_require__(83262);
+;// CONCATENATED MODULE: ./src/icons/MdShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var MdShadow = function MdShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_MdShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_MdShadow = (/*#__PURE__*/external_React_.forwardRef(MdShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/PackageShadow.js
+var icd_PackageShadow = __webpack_require__(49289);
+;// CONCATENATED MODULE: ./src/icons/PackageShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var PackageShadow = function PackageShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_PackageShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_PackageShadow = (/*#__PURE__*/external_React_.forwardRef(PackageShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ProjectsShadow.js
+var icd_ProjectsShadow = __webpack_require__(61547);
+;// CONCATENATED MODULE: ./src/icons/ProjectsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ProjectsShadow = function ProjectsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ProjectsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ProjectsShadow = (/*#__PURE__*/external_React_.forwardRef(ProjectsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/RefreshShadow.js
+var icd_RefreshShadow = __webpack_require__(18184);
+;// CONCATENATED MODULE: ./src/icons/RefreshShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var RefreshShadow = function RefreshShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_RefreshShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_RefreshShadow = (/*#__PURE__*/external_React_.forwardRef(RefreshShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ReloadShadow.js
+var icd_ReloadShadow = __webpack_require__(40420);
+;// CONCATENATED MODULE: ./src/icons/ReloadShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ReloadShadow = function ReloadShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ReloadShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ReloadShadow = (/*#__PURE__*/external_React_.forwardRef(ReloadShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/SprintsShadow.js
+var icd_SprintsShadow = __webpack_require__(9635);
+;// CONCATENATED MODULE: ./src/icons/SprintsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var SprintsShadow = function SprintsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_SprintsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_SprintsShadow = (/*#__PURE__*/external_React_.forwardRef(SprintsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/SvgShadow.js
+var icd_SvgShadow = __webpack_require__(18814);
+;// CONCATENATED MODULE: ./src/icons/SvgShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var SvgShadow = function SvgShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_SvgShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_SvgShadow = (/*#__PURE__*/external_React_.forwardRef(SvgShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/TimeTrackingShadow.js
+var icd_TimeTrackingShadow = __webpack_require__(45764);
+;// CONCATENATED MODULE: ./src/icons/TimeTrackingShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var TimeTrackingShadow = function TimeTrackingShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_TimeTrackingShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_TimeTrackingShadow = (/*#__PURE__*/external_React_.forwardRef(TimeTrackingShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/TsShadow.js
+var icd_TsShadow = __webpack_require__(54487);
+;// CONCATENATED MODULE: ./src/icons/TsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var TsShadow = function TsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_TsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_TsShadow = (/*#__PURE__*/external_React_.forwardRef(TsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/TsconfigShadow.js
+var icd_TsconfigShadow = __webpack_require__(67079);
+;// CONCATENATED MODULE: ./src/icons/TsconfigShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var TsconfigShadow = function TsconfigShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_TsconfigShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_TsconfigShadow = (/*#__PURE__*/external_React_.forwardRef(TsconfigShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/TsxShadow.js
+var icd_TsxShadow = __webpack_require__(28362);
+;// CONCATENATED MODULE: ./src/icons/TsxShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var TsxShadow = function TsxShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_TsxShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_TsxShadow = (/*#__PURE__*/external_React_.forwardRef(TsxShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/WhiteBoardsShadow.js
+var icd_WhiteBoardsShadow = __webpack_require__(49482);
+;// CONCATENATED MODULE: ./src/icons/WhiteBoardsShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var WhiteBoardsShadow = function WhiteBoardsShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_WhiteBoardsShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_WhiteBoardsShadow = (/*#__PURE__*/external_React_.forwardRef(WhiteBoardsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ZipShadow.js
+var icd_ZipShadow = __webpack_require__(69420);
+;// CONCATENATED MODULE: ./src/icons/ZipShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ZipShadow = function ZipShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ZipShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ZipShadow = (/*#__PURE__*/external_React_.forwardRef(ZipShadow));
 ;// CONCATENATED MODULE: ./src/icons/index.tsx
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
