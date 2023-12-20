@@ -1,6 +1,6 @@
 {
   "name": "@iicoding/react-icons",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "repository": "https://github.com/Tddtest/iicoding-react-icons",
   "license": "MIT",
   "contributors": [
@@ -15,7 +15,7 @@
     "@types/react-dom": "^16.9.5"
   },
   "dependencies": {
-    "@iicoding/svg": "0.0.14",
+    "@iicoding/svg": "0.0.15",
     "@ant-design/colors": "^7.0.0",
     "rc-util": "^5.31.1"
   },
