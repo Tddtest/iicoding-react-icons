@@ -142,6 +142,78 @@ exports.Z = BackShadow;
 
 /***/ }),
 
+/***/ 38415:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var BookShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M1 6v16l7-4 8 4 7-4V2l-7 4-8-4-7 4zM8 2v16M16 6v16"
+      }
+    }]
+  },
+  "name": "book",
+  "theme": "shadow"
+};
+exports.Z = BookShadow;
+
+/***/ }),
+
+/***/ 4439:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var BootstrapShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M6 4h8a4 4 0 014 4 4 4 0 01-4 4H6zM6 12h9a4 4 0 014 4 4 4 0 01-4 4H6z"
+      }
+    }]
+  },
+  "name": "bootstrap",
+  "theme": "shadow"
+};
+exports.Z = BootstrapShadow;
+
+/***/ }),
+
 /***/ 51957:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -185,6 +257,42 @@ var ChatShadow = {
   "theme": "shadow"
 };
 exports.Z = ChatShadow;
+
+/***/ }),
+
+/***/ 68697:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var CodeShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M16 18l6-6-6-6M8 6l-6 6 6 6"
+      }
+    }]
+  },
+  "name": "code",
+  "theme": "shadow"
+};
+exports.Z = CodeShadow;
 
 /***/ }),
 
@@ -404,6 +512,42 @@ exports.Z = DeleteShadow;
 
 /***/ }),
 
+/***/ 61643:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Design2Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M18 3a3 3 0 00-3 3v12a3 3 0 003 3 3 3 0 003-3 3 3 0 00-3-3H6a3 3 0 00-3 3 3 3 0 003 3 3 3 0 003-3V6a3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3h12a3 3 0 003-3 3 3 0 00-3-3z"
+      }
+    }]
+  },
+  "name": "design2",
+  "theme": "shadow"
+};
+exports.Z = Design2Shadow;
+
+/***/ }),
+
 /***/ 88771:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -493,6 +637,124 @@ var DocsShadow = {
   "theme": "shadow"
 };
 exports.Z = DocsShadow;
+
+/***/ }),
+
+/***/ 58335:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Download5Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"
+      }
+    }]
+  },
+  "name": "download5",
+  "theme": "shadow"
+};
+exports.Z = Download5Shadow;
+
+/***/ }),
+
+/***/ 84965:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var EjShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M3 18v-6a9 9 0 0118 0v6"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M21 19a2 2 0 01-2 2h-1a2 2 0 01-2-2v-3a2 2 0 012-2h3zM3 19a2 2 0 002 2h1a2 2 0 002-2v-3a2 2 0 00-2-2H3z"
+      }
+    }]
+  },
+  "name": "ej",
+  "theme": "shadow"
+};
+exports.Z = EjShadow;
+
+/***/ }),
+
+/***/ 80711:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var EmailShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M4 4h16a2 2 0 012 2v12a2 2 0 01-2 2H4a2 2 0 01-2-2V6c0-1.1.9-2 2-2z"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M22 6l-10 7L2 6"
+      }
+    }]
+  },
+  "name": "email",
+  "theme": "shadow"
+};
+exports.Z = EmailShadow;
 
 /***/ }),
 
@@ -41605,7 +41867,6 @@ var IconComp184Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 32 32",
       "focusable": "false"
     },
@@ -41638,7 +41899,6 @@ var IconComp202Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 10 8",
       "focusable": "false"
     },
@@ -41684,7 +41944,6 @@ var IconComp203Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 26.67 26.67",
       "focusable": "false"
     },
@@ -41730,7 +41989,6 @@ var IconComp204Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0.83 0.83 28.33 28.33",
       "focusable": "false"
     },
@@ -41776,7 +42034,6 @@ var IconComp205Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 22.17 23.33",
       "focusable": "false"
     },
@@ -41820,7 +42077,6 @@ var IconComp257Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 24 24",
       "focusable": "false"
     },
@@ -41863,7 +42119,6 @@ var IconComp2Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -41901,7 +42156,6 @@ var IconComp302Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 18 17",
       "focusable": "false"
     },
@@ -41934,7 +42188,6 @@ var IconComp320Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 40 41",
       "focusable": "false"
     },
@@ -41975,7 +42228,6 @@ var IconComp33Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42008,7 +42260,6 @@ var IconComp34Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42041,7 +42292,6 @@ var IconComp353Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 24 24",
       "focusable": "false"
     },
@@ -42074,7 +42324,6 @@ var IconComp369Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 24 24",
       "focusable": "false"
     },
@@ -42107,7 +42356,6 @@ var IconComp36Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42140,7 +42388,6 @@ var IconComp38Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42173,7 +42420,6 @@ var IconComp3Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42206,7 +42452,6 @@ var IconComp41Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42239,7 +42484,6 @@ var IconComp4Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42277,7 +42521,6 @@ var IconComp51Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42310,7 +42553,6 @@ var IconComp58Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42343,7 +42585,6 @@ var IconComp5Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42376,7 +42617,6 @@ var IconComp66Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42409,7 +42649,6 @@ var IconComp67Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42442,7 +42681,6 @@ var IconComp72Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42475,7 +42713,6 @@ var IconComp73Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42508,7 +42745,6 @@ var IconComp74Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42541,7 +42777,6 @@ var IconComp75Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42574,7 +42809,6 @@ var IconComp76Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42607,7 +42841,6 @@ var IconComp77Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42640,7 +42873,6 @@ var IconComp84Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42673,7 +42905,6 @@ var IconComp87Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42706,7 +42937,6 @@ var IconComp88Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42739,7 +42969,6 @@ var IconComp8Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42772,7 +43001,6 @@ var IconComp90Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -42805,7 +43033,6 @@ var IconComp93Shadow = {
   "icon": {
     "tag": "svg",
     "attrs": {
-      "aria-hidden": "true",
       "viewBox": "0 0 16 16",
       "focusable": "false"
     },
@@ -43044,6 +43271,42 @@ exports.Z = ImgDefaultShadow;
 
 /***/ }),
 
+/***/ 40915:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var InfomationShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M2 16.1A5 5 0 015.9 20M2 12.05A9 9 0 019.95 20M2 8V6a2 2 0 012-2h16a2 2 0 012 2v12a2 2 0 01-2 2h-6M2 20h0"
+      }
+    }]
+  },
+  "name": "infomation",
+  "theme": "shadow"
+};
+exports.Z = InfomationShadow;
+
+/***/ }),
+
 /***/ 71922:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -43140,6 +43403,85 @@ exports.Z = JsxShadow;
 
 /***/ }),
 
+/***/ 32892:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Location2Shadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0118 0z"
+      }
+    }, {
+      "tag": "circle",
+      "attrs": {
+        "cx": "12",
+        "cy": "10",
+        "r": "3"
+      }
+    }]
+  },
+  "name": "location2",
+  "theme": "shadow"
+};
+exports.Z = Location2Shadow;
+
+/***/ }),
+
+/***/ 47955:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var LocationShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"
+      }
+    }]
+  },
+  "name": "location",
+  "theme": "shadow"
+};
+exports.Z = LocationShadow;
+
+/***/ }),
+
 /***/ 49967:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -43202,6 +43544,52 @@ var MdShadow = {
   "theme": "shadow"
 };
 exports.Z = MdShadow;
+
+/***/ }),
+
+/***/ 17895:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var MobileShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "rect",
+      "attrs": {
+        "height": "20",
+        "rx": "2",
+        "ry": "2",
+        "width": "14",
+        "x": "5",
+        "y": "2"
+      }
+    }, {
+      "tag": "path",
+      "attrs": {
+        "d": "M12 18h0"
+      }
+    }]
+  },
+  "name": "mobile",
+  "theme": "shadow"
+};
+exports.Z = MobileShadow;
 
 /***/ }),
 
@@ -43282,6 +43670,41 @@ exports.Z = ProjectsShadow;
 
 /***/ }),
 
+/***/ 83026:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var ReactShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-width": "0",
+      "stroke": "currentColor",
+      "viewBox": "0 0 512 512",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M418.2 177.2c-5.4-1.8-10.8-3.5-16.2-5.1.9-3.7 1.7-7.4 2.5-11.1 12.3-59.6 4.2-107.5-23.1-123.3-26.3-15.1-69.2.6-112.6 38.4-4.3 3.7-8.5 7.6-12.5 11.5-2.7-2.6-5.5-5.2-8.3-7.7-45.5-40.4-91.1-57.4-118.4-41.5-26.2 15.2-34 60.3-23 116.7 1.1 5.6 2.3 11.1 3.7 16.7-6.4 1.8-12.7 3.8-18.6 5.9C38.3 196.2 0 225.4 0 255.6c0 31.2 40.8 62.5 96.3 81.5 4.5 1.5 9 3 13.6 4.3-1.5 6-2.8 11.9-4 18-10.5 55.5-2.3 99.5 23.9 114.6 27 15.6 72.4-.4 116.6-39.1 3.5-3.1 7-6.3 10.5-9.7 4.4 4.3 9 8.4 13.6 12.4 42.8 36.8 85.1 51.7 111.2 36.6 27-15.6 35.8-62.9 24.4-120.5-.9-4.4-1.9-8.9-3-13.5a258 258 0 009.4-2.9c57.7-19.1 99.5-50 99.5-81.7 0-30.3-39.4-59.7-93.8-78.4zM282.9 92.3c37.2-32.4 71.9-45.1 87.7-36 16.9 9.7 23.4 48.9 12.8 100.4-.7 3.4-1.4 6.7-2.3 10-22.2-5-44.7-8.6-67.3-10.6-13-18.6-27.2-36.4-42.6-53.1 3.9-3.7 7.7-7.2 11.7-10.7zM167.2 307.5c5.1 8.7 10.3 17.4 15.8 25.9-15.6-1.7-31.1-4.2-46.4-7.5 4.4-14.4 9.9-29.3 16.3-44.5 4.6 8.8 9.3 17.5 14.3 26.1zm-30.3-120.3c14.4-3.2 29.7-5.8 45.6-7.8-5.3 8.3-10.5 16.8-15.4 25.4-4.9 8.5-9.7 17.2-14.2 26a476.8 476.8 0 01-16-43.6zm27.4 68.9c6.6-13.8 13.8-27.3 21.4-40.6s15.8-26.2 24.4-38.9c15-1.1 30.3-1.7 45.9-1.7s31 .6 45.9 1.7c8.5 12.6 16.6 25.5 24.3 38.7s14.9 26.7 21.7 40.4c-6.7 13.8-13.9 27.4-21.6 40.8-7.6 13.3-15.7 26.2-24.2 39-14.9 1.1-30.4 1.6-46.1 1.6s-30.9-.5-45.6-1.4a608.1 608.1 0 01-46.1-79.6zm180.6 51.2c5.1-8.8 9.9-17.7 14.6-26.7 6.4 14.5 12 29.2 16.9 44.3-15.5 3.5-31.2 6.2-47 8 5.4-8.4 10.5-17 15.5-25.6zm14.4-76.5c-4.7-8.8-9.5-17.6-14.5-26.2-4.9-8.5-10-16.9-15.3-25.2 16.1 2 31.5 4.7 45.9 8-4.6 14.8-10 29.2-16.1 43.4zM256.2 118.3c10.5 11.4 20.4 23.4 29.6 35.8-19.8-.9-39.7-.9-59.5 0a505.2 505.2 0 0129.9-35.8zM140.2 57c16.8-9.8 54.1 4.2 93.4 39 2.5 2.2 5 4.6 7.6 7a508.05 508.05 0 00-42.9 53.1c-22.6 2-45 5.5-67.2 10.4-1.3-5.1-2.4-10.3-3.5-15.5-9.4-48.4-3.2-84.9 12.6-94zm-24.5 263.6c-4.2-1.2-8.3-2.5-12.4-3.9-21.3-6.7-45.5-17.3-63-31.2-10.1-7-16.9-17.8-18.8-29.9 0-18.3 31.6-41.7 77.2-57.6 5.7-2 11.5-3.8 17.3-5.5 6.8 21.7 15 43 24.5 63.6-9.6 20.9-17.9 42.5-24.8 64.5zm116.6 98a183.03 183.03 0 01-56.4 35.3 44.26 44.26 0 01-35.3 1.3c-15.9-9.2-22.5-44.5-13.5-92 1.1-5.6 2.3-11.2 3.7-16.7 22.4 4.8 45 8.1 67.9 9.8 13.2 18.7 27.7 36.6 43.2 53.4-3.2 3.1-6.4 6.1-9.6 8.9zm24.5-24.3c-10.2-11-20.4-23.2-30.3-36.3 9.6.4 19.5.6 29.5.6 10.3 0 20.4-.2 30.4-.7-9.2 12.7-19.1 24.8-29.6 36.4zm130.7 30c-.9 12.2-6.9 23.6-16.5 31.3-15.9 9.2-49.8-2.8-86.4-34.2-4.2-3.6-8.4-7.5-12.7-11.5 15.3-16.9 29.4-34.8 42.2-53.6 22.9-1.9 45.7-5.4 68.2-10.5 1 4.1 1.9 8.2 2.7 12.2 4.9 21.6 5.7 44.1 2.5 66.3zm18.2-107.5c-2.8.9-5.6 1.8-8.5 2.6a508 508 0 00-25.5-63.8c9.6-20.4 17.7-41.4 24.5-62.9 5.2 1.5 10.2 3.1 15 4.7 46.6 16 79.3 39.8 79.3 58 0 19.6-34.9 44.9-84.8 61.4zm-149.7-15a45.8 45.8 0 100-91.6 45.8 45.8 0 100 91.6z",
+        "stroke": "none"
+      }
+    }]
+  },
+  "name": "react",
+  "theme": "shadow"
+};
+exports.Z = ReactShadow;
+
+/***/ }),
+
 /***/ 18184:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -43355,6 +43778,41 @@ var ReloadShadow = {
   "theme": "shadow"
 };
 exports.Z = ReloadShadow;
+
+/***/ }),
+
+/***/ 17835:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var SassShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-width": "0",
+      "stroke": "currentColor",
+      "viewBox": "0 0 640 512",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M301.84 378.92c-.3.6-.6 1.08 0 0zm249.13-87a131.16 131.16 0 00-58 13.5c-5.9-11.9-12-22.3-13-30.1-1.2-9.1-2.5-14.5-1.1-25.3s7.7-26.1 7.6-27.2-1.4-6.6-14.3-6.7-24 2.5-25.29 5.9a122.83 122.83 0 00-5.3 19.1c-2.3 11.7-25.79 53.5-39.09 75.3-4.4-8.5-8.1-16-8.9-22-1.2-9.1-2.5-14.5-1.1-25.3s7.7-26.1 7.6-27.2-1.4-6.6-14.29-6.7-24 2.5-25.3 5.9-2.7 11.4-5.3 19.1-33.89 77.3-42.08 95.4c-4.2 9.2-7.8 16.6-10.4 21.6-.4.8-.7 1.3-.9 1.7.3-.5.5-1 .5-.8-2.2 4.3-3.5 6.7-3.5 6.7v.1c-1.7 3.2-3.6 6.1-4.5 6.1-.6 0-1.9-8.4.3-19.9 4.7-24.2 15.8-61.8 15.7-63.1-.1-.7 2.1-7.2-7.3-10.7-9.1-3.3-12.4 2.2-13.2 2.2s-1.4 2-1.4 2 10.1-42.4-19.39-42.4c-18.4 0-44 20.2-56.58 38.5-7.9 4.3-25 13.6-43 23.5l-20.7 11.4c-.5-.5-.9-1-1.4-1.5-35.79-38.2-101.87-65.2-99.07-116.5 1-18.7 7.5-67.8 127.07-127.4 98-48.8 176.35-35.4 189.84-5.6 19.4 42.5-41.89 121.6-143.66 133-38.79 4.3-59.18-10.7-64.28-16.3-5.3-5.9-6.1-6.2-8.1-5.1-3.3 1.8-1.2 7 0 10.1 3 7.9 15.5 21.9 36.79 28.9 18.7 6.1 64.18 9.5 119.17-11.8 61.78-23.8 109.87-90.1 95.77-145.6C386.52 18.32 293-.18 204.57 31.22c-52.69 18.7-109.67 48.1-150.66 86.4-48.69 45.6-56.48 85.3-53.28 101.9 11.39 58.9 92.57 97.3 125.06 125.7-1.6.9-3.1 1.7-4.5 2.5-16.29 8.1-78.18 40.5-93.67 74.7-17.5 38.8 2.9 66.6 16.29 70.4 41.79 11.6 84.58-9.3 107.57-43.6s20.2-79.1 9.6-99.5c-.1-.3-.3-.5-.4-.8 4.2-2.5 8.5-5 12.8-7.5 8.29-4.9 16.39-9.4 23.49-13.3-4 10.8-6.9 23.8-8.4 42.6-1.8 22 7.3 50.5 19.1 61.7 5.2 4.9 11.49 5 15.39 5 13.8 0 20-11.4 26.89-25 8.5-16.6 16-35.9 16-35.9s-9.4 52.2 16.3 52.2c9.39 0 18.79-12.1 23-18.3v.1s.2-.4.7-1.2c1-1.5 1.5-2.4 1.5-2.4v-.3c3.8-6.5 12.1-21.4 24.59-46 16.2-31.8 31.69-71.5 31.69-71.5a201.24 201.24 0 006.2 25.8c2.8 9.5 8.7 19.9 13.4 30-3.8 5.2-6.1 8.2-6.1 8.2a.31.31 0 00.1.2c-3 4-6.4 8.3-9.9 12.5-12.79 15.2-28 32.6-30 37.6-2.4 5.9-1.8 10.3 2.8 13.7 3.4 2.6 9.4 3 15.69 2.5 11.5-.8 19.6-3.6 23.5-5.4a82.2 82.2 0 0020.19-10.6c12.5-9.2 20.1-22.4 19.4-39.8-.4-9.6-3.5-19.2-7.3-28.2 1.1-1.6 2.3-3.3 3.4-5C434.8 301.72 450.1 270 450.1 270a201.24 201.24 0 006.2 25.8c2.4 8.1 7.09 17 11.39 25.7-18.59 15.1-30.09 32.6-34.09 44.1-7.4 21.3-1.6 30.9 9.3 33.1 4.9 1 11.9-1.3 17.1-3.5a79.46 79.46 0 0021.59-11.1c12.5-9.2 24.59-22.1 23.79-39.6-.3-7.9-2.5-15.8-5.4-23.4 15.7-6.6 36.09-10.2 62.09-7.2 55.68 6.5 66.58 41.3 64.48 55.8s-13.8 22.6-17.7 25-5.1 3.3-4.8 5.1c.5 2.6 2.3 2.5 5.6 1.9 4.6-.8 29.19-11.8 30.29-38.7 1.6-34-31.09-71.4-89-71.1zm-429.18 144.7c-18.39 20.1-44.19 27.7-55.28 21.3C54.61 451 59.31 421.42 82 400c13.8-13 31.59-25 43.39-32.4 2.7-1.6 6.6-4 11.4-6.9.8-.5 1.2-.7 1.2-.7.9-.6 1.9-1.1 2.9-1.7 8.29 30.4.3 57.2-19.1 78.3zm134.36-91.4c-6.4 15.7-19.89 55.7-28.09 53.6-7-1.8-11.3-32.3-1.4-62.3 5-15.1 15.6-33.1 21.9-40.1 10.09-11.3 21.19-14.9 23.79-10.4 3.5 5.9-12.2 49.4-16.2 59.2zm111 53c-2.7 1.4-5.2 2.3-6.4 1.6-.9-.5 1.1-2.4 1.1-2.4s13.9-14.9 19.4-21.7c3.2-4 6.9-8.7 10.89-13.9 0 .5.1 1 .1 1.6-.13 17.9-17.32 30-25.12 34.8zm85.58-19.5c-2-1.4-1.7-6.1 5-20.7 2.6-5.7 8.59-15.3 19-24.5a36.18 36.18 0 011.9 10.8c-.1 22.5-16.2 30.9-25.89 34.4z",
+        "stroke": "none"
+      }
+    }]
+  },
+  "name": "sass",
+  "theme": "shadow"
+};
+exports.Z = SassShadow;
 
 /***/ }),
 
@@ -43669,6 +44127,42 @@ var WhiteBoardsShadow = {
   "theme": "shadow"
 };
 exports.Z = WhiteBoardsShadow;
+
+/***/ }),
+
+/***/ 6656:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var XdtShadow = {
+  "icon": {
+    "tag": "svg",
+    "attrs": {
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+      "stroke-width": "2",
+      "stroke": "currentColor",
+      "viewBox": "0 0 24 24",
+      "focusable": "false"
+    },
+    "children": [{
+      "tag": "path",
+      "attrs": {
+        "d": "M22 12h-4l-3 9L9 3l-3 9H2"
+      }
+    }]
+  },
+  "name": "xdt",
+  "theme": "shadow"
+};
+exports.Z = XdtShadow;
 
 /***/ }),
 
@@ -44762,14 +45256,21 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.d(__webpack_exports__, {
   AiShadow: function() { return /* reexport */ icons_AiShadow; },
   BackShadow: function() { return /* reexport */ icons_BackShadow; },
+  BookShadow: function() { return /* reexport */ icons_BookShadow; },
+  BootstrapShadow: function() { return /* reexport */ icons_BootstrapShadow; },
   ChatShadow: function() { return /* reexport */ icons_ChatShadow; },
+  CodeShadow: function() { return /* reexport */ icons_CodeShadow; },
   CopyShadow: function() { return /* reexport */ icons_CopyShadow; },
   CutShadow: function() { return /* reexport */ icons_CutShadow; },
   DTsShadow: function() { return /* reexport */ icons_DTsShadow; },
   DashboardsShadow: function() { return /* reexport */ icons_DashboardsShadow; },
   DeleteShadow: function() { return /* reexport */ icons_DeleteShadow; },
+  Design2Shadow: function() { return /* reexport */ icons_Design2Shadow; },
   DesignShadow: function() { return /* reexport */ icons_DesignShadow; },
   DocsShadow: function() { return /* reexport */ icons_DocsShadow; },
+  Download5Shadow: function() { return /* reexport */ icons_Download5Shadow; },
+  EjShadow: function() { return /* reexport */ icons_EjShadow; },
+  EmailShadow: function() { return /* reexport */ icons_EmailShadow; },
   Empt1Shadow: function() { return /* reexport */ icons_Empt1Shadow; },
   EmptShadow: function() { return /* reexport */ icons_EmptShadow; },
   FillIconBb0Full: function() { return /* reexport */ icons_FillIconBb0Full; },
@@ -45435,15 +45936,21 @@ __webpack_require__.d(__webpack_exports__, {
   IconUpdateTimeFull: function() { return /* reexport */ icons_IconUpdateTimeFull; },
   ImgDefault2Shadow: function() { return /* reexport */ icons_ImgDefault2Shadow; },
   ImgDefaultShadow: function() { return /* reexport */ icons_ImgDefaultShadow; },
+  InfomationShadow: function() { return /* reexport */ icons_InfomationShadow; },
   JsShadow: function() { return /* reexport */ icons_JsShadow; },
   JsonShadow: function() { return /* reexport */ icons_JsonShadow; },
   JsxShadow: function() { return /* reexport */ icons_JsxShadow; },
+  Location2Shadow: function() { return /* reexport */ icons_Location2Shadow; },
+  LocationShadow: function() { return /* reexport */ icons_LocationShadow; },
   LockShadow: function() { return /* reexport */ icons_LockShadow; },
   MdShadow: function() { return /* reexport */ icons_MdShadow; },
+  MobileShadow: function() { return /* reexport */ icons_MobileShadow; },
   PackageShadow: function() { return /* reexport */ icons_PackageShadow; },
   ProjectsShadow: function() { return /* reexport */ icons_ProjectsShadow; },
+  ReactShadow: function() { return /* reexport */ icons_ReactShadow; },
   RefreshShadow: function() { return /* reexport */ icons_RefreshShadow; },
   ReloadShadow: function() { return /* reexport */ icons_ReloadShadow; },
+  SassShadow: function() { return /* reexport */ icons_SassShadow; },
   SingleImgShadow: function() { return /* reexport */ icons_SingleImgShadow; },
   SprintsShadow: function() { return /* reexport */ icons_SprintsShadow; },
   SvgShadow: function() { return /* reexport */ icons_SvgShadow; },
@@ -45452,6 +45959,7 @@ __webpack_require__.d(__webpack_exports__, {
   TsconfigShadow: function() { return /* reexport */ icons_TsconfigShadow; },
   TsxShadow: function() { return /* reexport */ icons_TsxShadow; },
   WhiteBoardsShadow: function() { return /* reexport */ icons_WhiteBoardsShadow; },
+  XdtShadow: function() { return /* reexport */ icons_XdtShadow; },
   ZipShadow: function() { return /* reexport */ icons_ZipShadow; },
   createFromIconfontCN: function() { return /* reexport */ create; },
   "default": function() { return /* reexport */ components_Icon; },
@@ -46665,6 +47173,40 @@ var BackShadow = function BackShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_BackShadow = (/*#__PURE__*/external_React_.forwardRef(BackShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/BookShadow.js
+var icd_BookShadow = __webpack_require__(38415);
+;// CONCATENATED MODULE: ./src/icons/BookShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var BookShadow = function BookShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_BookShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_BookShadow = (/*#__PURE__*/external_React_.forwardRef(BookShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/BootstrapShadow.js
+var icd_BootstrapShadow = __webpack_require__(4439);
+;// CONCATENATED MODULE: ./src/icons/BootstrapShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var BootstrapShadow = function BootstrapShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_BootstrapShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_BootstrapShadow = (/*#__PURE__*/external_React_.forwardRef(BootstrapShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ChatShadow.js
 var icd_ChatShadow = __webpack_require__(51957);
 ;// CONCATENATED MODULE: ./src/icons/ChatShadow.tsx
@@ -46682,6 +47224,23 @@ var ChatShadow = function ChatShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_ChatShadow = (/*#__PURE__*/external_React_.forwardRef(ChatShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/CodeShadow.js
+var icd_CodeShadow = __webpack_require__(68697);
+;// CONCATENATED MODULE: ./src/icons/CodeShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var CodeShadow = function CodeShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_CodeShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_CodeShadow = (/*#__PURE__*/external_React_.forwardRef(CodeShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/CopyShadow.js
 var icd_CopyShadow = __webpack_require__(31165);
 ;// CONCATENATED MODULE: ./src/icons/CopyShadow.tsx
@@ -46767,6 +47326,23 @@ var DeleteShadow = function DeleteShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_DeleteShadow = (/*#__PURE__*/external_React_.forwardRef(DeleteShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Design2Shadow.js
+var icd_Design2Shadow = __webpack_require__(61643);
+;// CONCATENATED MODULE: ./src/icons/Design2Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Design2Shadow = function Design2Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Design2Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Design2Shadow = (/*#__PURE__*/external_React_.forwardRef(Design2Shadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/DesignShadow.js
 var icd_DesignShadow = __webpack_require__(88771);
 ;// CONCATENATED MODULE: ./src/icons/DesignShadow.tsx
@@ -46801,6 +47377,57 @@ var DocsShadow = function DocsShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_DocsShadow = (/*#__PURE__*/external_React_.forwardRef(DocsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Download5Shadow.js
+var icd_Download5Shadow = __webpack_require__(58335);
+;// CONCATENATED MODULE: ./src/icons/Download5Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Download5Shadow = function Download5Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Download5Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Download5Shadow = (/*#__PURE__*/external_React_.forwardRef(Download5Shadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/EjShadow.js
+var icd_EjShadow = __webpack_require__(84965);
+;// CONCATENATED MODULE: ./src/icons/EjShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var EjShadow = function EjShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_EjShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_EjShadow = (/*#__PURE__*/external_React_.forwardRef(EjShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/EmailShadow.js
+var icd_EmailShadow = __webpack_require__(80711);
+;// CONCATENATED MODULE: ./src/icons/EmailShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var EmailShadow = function EmailShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_EmailShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_EmailShadow = (/*#__PURE__*/external_React_.forwardRef(EmailShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Empt1Shadow.js
 var icd_Empt1Shadow = __webpack_require__(61447);
 ;// CONCATENATED MODULE: ./src/icons/Empt1Shadow.tsx
@@ -58089,6 +58716,23 @@ var ImgDefaultShadow = function ImgDefaultShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_ImgDefaultShadow = (/*#__PURE__*/external_React_.forwardRef(ImgDefaultShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/InfomationShadow.js
+var icd_InfomationShadow = __webpack_require__(40915);
+;// CONCATENATED MODULE: ./src/icons/InfomationShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var InfomationShadow = function InfomationShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_InfomationShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_InfomationShadow = (/*#__PURE__*/external_React_.forwardRef(InfomationShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/JsShadow.js
 var icd_JsShadow = __webpack_require__(71922);
 ;// CONCATENATED MODULE: ./src/icons/JsShadow.tsx
@@ -58140,6 +58784,40 @@ var JsxShadow = function JsxShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_JsxShadow = (/*#__PURE__*/external_React_.forwardRef(JsxShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Location2Shadow.js
+var icd_Location2Shadow = __webpack_require__(32892);
+;// CONCATENATED MODULE: ./src/icons/Location2Shadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Location2Shadow = function Location2Shadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Location2Shadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Location2Shadow = (/*#__PURE__*/external_React_.forwardRef(Location2Shadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/LocationShadow.js
+var icd_LocationShadow = __webpack_require__(47955);
+;// CONCATENATED MODULE: ./src/icons/LocationShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var LocationShadow = function LocationShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_LocationShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_LocationShadow = (/*#__PURE__*/external_React_.forwardRef(LocationShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/LockShadow.js
 var icd_LockShadow = __webpack_require__(49967);
 ;// CONCATENATED MODULE: ./src/icons/LockShadow.tsx
@@ -58174,6 +58852,23 @@ var MdShadow = function MdShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_MdShadow = (/*#__PURE__*/external_React_.forwardRef(MdShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/MobileShadow.js
+var icd_MobileShadow = __webpack_require__(17895);
+;// CONCATENATED MODULE: ./src/icons/MobileShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var MobileShadow = function MobileShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_MobileShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_MobileShadow = (/*#__PURE__*/external_React_.forwardRef(MobileShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/PackageShadow.js
 var icd_PackageShadow = __webpack_require__(49289);
 ;// CONCATENATED MODULE: ./src/icons/PackageShadow.tsx
@@ -58208,6 +58903,23 @@ var ProjectsShadow = function ProjectsShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_ProjectsShadow = (/*#__PURE__*/external_React_.forwardRef(ProjectsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ReactShadow.js
+var icd_ReactShadow = __webpack_require__(83026);
+;// CONCATENATED MODULE: ./src/icons/ReactShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var ReactShadow = function ReactShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_ReactShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_ReactShadow = (/*#__PURE__*/external_React_.forwardRef(ReactShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/RefreshShadow.js
 var icd_RefreshShadow = __webpack_require__(18184);
 ;// CONCATENATED MODULE: ./src/icons/RefreshShadow.tsx
@@ -58242,6 +58954,23 @@ var ReloadShadow = function ReloadShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_ReloadShadow = (/*#__PURE__*/external_React_.forwardRef(ReloadShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/SassShadow.js
+var icd_SassShadow = __webpack_require__(17835);
+;// CONCATENATED MODULE: ./src/icons/SassShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var SassShadow = function SassShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_SassShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_SassShadow = (/*#__PURE__*/external_React_.forwardRef(SassShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/SingleImgShadow.js
 var icd_SingleImgShadow = __webpack_require__(99039);
 ;// CONCATENATED MODULE: ./src/icons/SingleImgShadow.tsx
@@ -58378,6 +59107,23 @@ var WhiteBoardsShadow = function WhiteBoardsShadow(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_WhiteBoardsShadow = (/*#__PURE__*/external_React_.forwardRef(WhiteBoardsShadow));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/XdtShadow.js
+var icd_XdtShadow = __webpack_require__(6656);
+;// CONCATENATED MODULE: ./src/icons/XdtShadow.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var XdtShadow = function XdtShadow(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_XdtShadow/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_XdtShadow = (/*#__PURE__*/external_React_.forwardRef(XdtShadow));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/ZipShadow.js
 var icd_ZipShadow = __webpack_require__(69420);
 ;// CONCATENATED MODULE: ./src/icons/ZipShadow.tsx
@@ -58398,6 +59144,20 @@ if (false) {}
 ;// CONCATENATED MODULE: ./src/icons/index.tsx
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
