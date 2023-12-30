@@ -13480,9 +13480,6 @@ var Full23943126Full = {
     return {
       "tag": "svg",
       "attrs": {
-        "fill": "currentColor",
-        "overflow": "hidden",
-        "style": "width:1em;height:1em;vertical-align:middle",
         "viewBox": "0 0 1024 1024",
         "focusable": "false"
       },
@@ -29888,9 +29885,6 @@ var Full23943475Full = {
     return {
       "tag": "svg",
       "attrs": {
-        "fill": "currentColor",
-        "overflow": "hidden",
-        "style": "width:1em;height:1em;vertical-align:middle",
         "viewBox": "0 0 1024 1024",
         "focusable": "false"
       },
@@ -31187,6 +31181,71 @@ var Full23943495Full = {
   "theme": "full"
 };
 exports.Z = Full23943495Full;
+
+/***/ }),
+
+/***/ 59819:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var Full23943496Full = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M63.44 509.6a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z",
+          "fill": "#FBE1FF"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M862.31 492.44l-84.02-84.02a20.58 20.58 0 01-6.04-14.54V275a20.53 20.53 0 00-20.53-20.54H632.88c-5.42 0-10.7-2.15-14.54-6.04l-84.02-84.02a20.55 20.55 0 00-29.08 0l-84.07 84.02a20.58 20.58 0 01-14.54 6.04H287.8A20.53 20.53 0 00267.26 275v118.83c0 5.43-2.15 10.7-6.04 14.54l-84.02 84.07a20.55 20.55 0 000 29.08l84.02 84.02a20.58 20.58 0 016.04 14.54v118.84a20.53 20.53 0 0020.54 20.53h118.83c5.43 0 10.7 2.15 14.54 6.04l84.02 84.02a20.55 20.55 0 0029.08 0l84.02-84.02a20.58 20.58 0 0114.54-6.04h118.84a20.53 20.53 0 0020.53-20.53V620.08c0-5.42 2.15-10.7 6.04-14.54l84.02-84.02a20.5 20.5 0 00.05-29.08zm-505.8-74.96c0-48.79 29.7-86.98 67.63-86.98 37.94 0 67.64 38.2 67.64 86.98s-29.7 87-67.64 87-67.63-38.2-67.63-87zm118.63 258.36A27.84 27.84 0 01450.3 691a27.86 27.86 0 01-24.78-40.6l145.46-283.8a27.82 27.82 0 0137.53-12.1 27.86 27.86 0 0112.09 37.54l-145.46 283.8zm165.42-1.64c-37.94 0-67.63-38.2-67.63-86.99s29.7-86.99 67.63-86.99c37.94 0 67.64 38.2 67.64 87s-29.75 86.98-67.64 86.98z",
+          "fill": "#BD50D3"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M640.41 555.98c-2.61.72-11.73 11.42-11.73 31.23 0 19.82 9.12 30.57 11.99 31.23 2.6-.71 11.72-11.41 11.72-31.23 0-19.81-9.11-30.56-11.98-31.23zM435.97 417.48c0-19.81-9.12-30.56-11.98-31.23-2.61.72-11.73 11.42-11.73 31.23 0 19.82 9.12 30.57 11.98 31.24 2.67-.72 11.73-11.42 11.73-31.24z",
+          "fill": "#BD50D3"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M796.77 426.9l-18.48-18.48a20.58 20.58 0 01-6.04-14.54V275a20.53 20.53 0 00-20.53-20.54H632.88c-5.42 0-10.7-2.15-14.54-6.04l-84.02-84.02a20.55 20.55 0 00-29.08 0l-84.07 84.02a20.58 20.58 0 01-14.54 6.04H287.8A20.53 20.53 0 00267.26 275v118.83c0 5.43-2.15 10.7-6.04 14.54l-84.02 84.07a20.55 20.55 0 000 29.08l84.02 84.02a20.58 20.58 0 016.04 14.54v118.84a20.53 20.53 0 0020.54 20.53h118.83c5.43 0 10.7 2.15 14.54 6.04l25.2 25.2c179.2-37.9 319.07-182.28 350.4-363.78zm-440.26-9.42c0-48.79 29.7-86.98 67.63-86.98 37.94 0 67.64 38.2 67.64 86.98s-29.7 87-67.64 87-67.63-38.2-67.63-87zm93.8 273.57a27.86 27.86 0 01-24.79-40.6l145.46-283.8a27.82 27.82 0 0137.53-12.09 27.86 27.86 0 0112.09 37.53L475.14 675.84a27.8 27.8 0 01-24.84 15.2zM572.92 587.2c0-48.8 29.7-86.99 67.63-86.99 37.94 0 67.64 38.2 67.64 87 0 48.79-29.7 86.98-67.64 86.98s-67.63-38.2-67.63-86.99z",
+          "fill": "#BD50D3"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M618.34 248.42l-84.02-84.02a20.55 20.55 0 00-29.08 0l-84.07 84.02a20.58 20.58 0 01-14.54 6.04H287.8A20.53 20.53 0 00267.26 275v118.83c0 5.43-2.15 10.7-6.04 14.54l-84.02 84.07a20.55 20.55 0 000 29.08l84.02 84.02a20.58 20.58 0 016.04 14.54v18.7a447.91 447.91 0 00197.38-64.67l106.34-207.52a27.82 27.82 0 0137.53-12.08 27.86 27.86 0 0112.09 37.53l-42.7 83.3c50.89-62 85.5-137.78 97.48-220.93h-42.55a20.08 20.08 0 01-14.49-5.99zm-194.2 256.05c-37.89 0-67.63-38.2-67.63-86.99s29.7-86.98 67.63-86.98c37.94 0 67.64 38.2 67.64 86.98s-29.75 87-67.64 87z",
+          "fill": "#BD50D3"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M356.76 411.14c2.46-45.73 31.13-80.7 67.38-80.7 8.2 0 15.92 1.9 23.14 5.18a450.36 450.36 0 0096.1-162.15l-9.06-9.07a20.55 20.55 0 00-29.08 0l-84.07 84.02a20.58 20.58 0 01-14.54 6.04H287.8A20.53 20.53 0 00267.26 275v118.83c0 5.43-2.15 10.7-6.04 14.54l-65.38 65.38a448.61 448.61 0 00160.92-62.61z",
+          "fill": "#BD50D3"
+        }
+      }]
+    };
+  },
+  "name": "Full23943496",
+  "theme": "full"
+};
+exports.Z = Full23943496Full;
 
 /***/ }),
 
@@ -38664,6 +38723,62 @@ var FullDownload01Full = {
   "theme": "full"
 };
 exports.Z = FullDownload01Full;
+
+/***/ }),
+
+/***/ 54771:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var FullEachFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "fill": "currentColor",
+        "overflow": "hidden",
+        "style": "width:1em;height:1em;vertical-align:middle",
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M60.420000000000016 512.77a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z",
+          "fill": "#FFE3DB"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M512 158.72A353.28 353.28 0 10865.28 512 353.28 353.28 0 00512 158.72zm126.61 504.2z",
+          "fill": "#ba68c8"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M512 757c-115.37 0-216.21-81.85-239.79-194.65a21.02 21.02 0 0116.26-24.86 21.04 21.04 0 0124.86 16.27C332.85 647.19 416.41 715 512 715c95.59 0 179.14-67.81 198.68-161.23a20.9 20.9 0 0124.86-16.26 21 21 0 0116.26 24.84C728.21 675.15 627.36 757 512 757zM291.29 495.06a21 21 0 01-20.73-24.53A244.25 244.25 0 01512 267a244.23 244.23 0 01241.43 203.53 21 21 0 01-41.4 7.06A202.32 202.32 0 00512 309a202.35 202.35 0 00-200.04 168.59 21 21 0 01-20.67 17.47z",
+          "fill": "#FFF"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M291.28 495.06a20.99 20.99 0 01-10.52-39.18l48.5-28a20.99 20.99 0 1121 36.36l-48.5 28a20.81 20.81 0 01-10.48 2.82zm391.48 112a20.99 20.99 0 01-10.52-39.18l48.49-28a20.99 20.99 0 1121 36.36l-48.49 28a20.81 20.81 0 01-10.48 2.82z",
+          "fill": "#FFF"
+        }
+      }]
+    };
+  },
+  "name": "full-each",
+  "theme": "full"
+};
+exports.Z = FullEachFull;
 
 /***/ }),
 
@@ -46634,6 +46749,53 @@ exports.Z = TypingsFull;
 
 /***/ }),
 
+/***/ 985:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var UndenoFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M512 0a512 512 0 01512 512 512 512 0 01-512 512A512 512 0 010 512 512 512 0 01512 0z",
+          "fill": "#D7FFDB"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M512 102.4A409.6 409.6 0 01921.6 512 409.6 409.6 0 01512 921.6 409.6 409.6 0 01102.4 512 409.6 409.6 0 01512 102.4z",
+          "fill": "#23E249"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M710.63 329.14a9.17 9.17 0 00-9.14-9.14l-75.43.34-113.6 135.43-113.49-135.31-75.54-.35a9.1 9.1 0 00-9.14 9.15c0 2.17.8 4.23 2.17 5.94l148.68 177.14-148.68 177.03a9.5 9.5 0 00-2.17 5.94 9.17 9.17 0 009.14 9.15l75.54-.35L512.46 568.7 625.94 704l75.43.34c5.03 0 9.14-4 9.14-9.14a9.5 9.5 0 00-2.17-5.94L559.9 512.23l148.68-177.14a9.17 9.17 0 002.06-5.95z",
+          "fill": "#FFF"
+        }
+      }]
+    };
+  },
+  "name": "undeno",
+  "theme": "full"
+};
+exports.Z = UndenoFull;
+
+/***/ }),
+
 /***/ 93148:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -48713,6 +48875,7 @@ __webpack_require__.d(__webpack_exports__, {
   Full23943493Full: function() { return /* reexport */ icons_Full23943493Full; },
   Full23943494Full: function() { return /* reexport */ icons_Full23943494Full; },
   Full23943495Full: function() { return /* reexport */ icons_Full23943495Full; },
+  Full23943496Full: function() { return /* reexport */ icons_Full23943496Full; },
   Full35234208Shadow: function() { return /* reexport */ icons_Full35234208Shadow; },
   FullAppIcon0Full: function() { return /* reexport */ icons_FullAppIcon0Full; },
   FullAppIcon100Full: function() { return /* reexport */ icons_FullAppIcon100Full; },
@@ -48838,6 +49001,7 @@ __webpack_require__.d(__webpack_exports__, {
   FullCopy03Full: function() { return /* reexport */ icons_FullCopy03Full; },
   FullCopyFull: function() { return /* reexport */ icons_FullCopyFull; },
   FullDownload01Full: function() { return /* reexport */ icons_FullDownload01Full; },
+  FullEachFull: function() { return /* reexport */ icons_FullEachFull; },
   FullIconAa0Full: function() { return /* reexport */ icons_FullIconAa0Full; },
   FullIconAa10Full: function() { return /* reexport */ icons_FullIconAa10Full; },
   FullIconAa11Full: function() { return /* reexport */ icons_FullIconAa11Full; },
@@ -49001,6 +49165,7 @@ __webpack_require__.d(__webpack_exports__, {
   TsconfigShadow: function() { return /* reexport */ icons_TsconfigShadow; },
   TsxShadow: function() { return /* reexport */ icons_TsxShadow; },
   TypingsFull: function() { return /* reexport */ icons_TypingsFull; },
+  UndenoFull: function() { return /* reexport */ icons_UndenoFull; },
   UserFull: function() { return /* reexport */ icons_UserFull; },
   UtilsFolderFull: function() { return /* reexport */ icons_UtilsFolderFull; },
   ViewFull: function() { return /* reexport */ icons_ViewFull; },
@@ -58126,6 +58291,23 @@ var Full23943495Full = function Full23943495Full(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_Full23943495Full = (/*#__PURE__*/external_React_.forwardRef(Full23943495Full));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Full23943496Full.js
+var icd_Full23943496Full = __webpack_require__(59819);
+;// CONCATENATED MODULE: ./src/icons/Full23943496Full.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var Full23943496Full = function Full23943496Full(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_Full23943496Full/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_Full23943496Full = (/*#__PURE__*/external_React_.forwardRef(Full23943496Full));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/Full35234208Shadow.js
 var icd_Full35234208Shadow = __webpack_require__(77216);
 ;// CONCATENATED MODULE: ./src/icons/Full35234208Shadow.tsx
@@ -60251,6 +60433,23 @@ var FullDownload01Full = function FullDownload01Full(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_FullDownload01Full = (/*#__PURE__*/external_React_.forwardRef(FullDownload01Full));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FullEachFull.js
+var icd_FullEachFull = __webpack_require__(54771);
+;// CONCATENATED MODULE: ./src/icons/FullEachFull.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var FullEachFull = function FullEachFull(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_FullEachFull/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_FullEachFull = (/*#__PURE__*/external_React_.forwardRef(FullEachFull));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FullIconAa0Full.js
 var icd_FullIconAa0Full = __webpack_require__(71041);
 ;// CONCATENATED MODULE: ./src/icons/FullIconAa0Full.tsx
@@ -63005,6 +63204,23 @@ var TypingsFull = function TypingsFull(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_TypingsFull = (/*#__PURE__*/external_React_.forwardRef(TypingsFull));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/UndenoFull.js
+var icd_UndenoFull = __webpack_require__(985);
+;// CONCATENATED MODULE: ./src/icons/UndenoFull.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var UndenoFull = function UndenoFull(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_UndenoFull/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_UndenoFull = (/*#__PURE__*/external_React_.forwardRef(UndenoFull));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/UserFull.js
 var icd_UserFull = __webpack_require__(93148);
 ;// CONCATENATED MODULE: ./src/icons/UserFull.tsx
@@ -63144,6 +63360,9 @@ if (false) {}
 ;// CONCATENATED MODULE: ./src/icons/index.tsx
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
+
+
+
 
 
 
