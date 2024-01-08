@@ -38664,6 +38664,47 @@ exports.Z = FullCopyFull;
 
 /***/ }),
 
+/***/ 81116:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var FullDebug1Full = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M68.92000000000002 506.98a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z",
+          "fill": "#FFE1E9"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M218.37 261.85L299.52 343h425.62l80.55-80.55.74.75a64 64 0 01-.74 89.76L771 387.65V524h130a64 64 0 01-64 64h-66v62c0 22.75-2.92 44.8-8.4 65.83l88.34 88.36a64 64 0 01-90.5 0L736.22 780C696.5 848.67 626.23 897.5 544 907.91V417h-64v491.17c-82.4-9.79-152.98-58.11-193.2-126.44l-23.18 23.17a64 64 0 01-90.5 0l86.87-86.88c-5.5-20.36-8.6-41.7-8.95-63.72L251 650v-62h-66a64 64 0 01-64-64h130V384.99l-32.63-32.63a64 64 0 01-.74-89.76l.74-.75zM512 113c93.89 0 170 76.11 170 170H342c0-93.89 76.11-170 170-170z",
+          "fill": "#FF4D7C"
+        }
+      }]
+    };
+  },
+  "name": "FullDebug1",
+  "theme": "full"
+};
+exports.Z = FullDebug1Full;
+
+/***/ }),
+
 /***/ 93958:
 /***/ (function(__unused_webpack_module, exports) {
 
@@ -42798,6 +42839,159 @@ var FullIconCc9Full = {
   "theme": "full"
 };
 exports.Z = FullIconCc9Full;
+
+/***/ }),
+
+/***/ 89689:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var FullStartFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M68.92000000000002 506.98a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z",
+          "fill": "#E3FFF3"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M149.99 874.1A509.95 509.95 0 1040.28 711.4a513.2 513.2 0 00109.71 162.7z",
+          "fill": "#1adc0c"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M429.65 687.98a57.33 57.33 0 0027.27 7 60.35 60.35 0 0032.83-10.02l175.98-116a68.68 68.68 0 0030.78-58.05 66.5 66.5 0 00-29.81-56.48L489.15 338.68a57.93 57.93 0 00-60.35-3.02 67.83 67.83 0 00-33.31 60.35v231.62a67.47 67.47 0 0034.16 60.35z",
+          "fill": "#FFF"
+        }
+      }]
+    };
+  },
+  "name": "FullStart",
+  "theme": "full"
+};
+exports.Z = FullStartFull;
+
+/***/ }),
+
+/***/ 94343:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var FullStartThatFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M68.92000000000002 506.98a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z",
+          "fill": "#E3FFF3"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M663.88 696.3a136.89 136.89 0 11-273.77 0c0-75.63 61.29-44.3 136.89-44.3s136.89-31.28 136.89 44.3M437.1 430.65a85.07 85.07 0 11-85.07-85.07 85.06 85.06 0 0185.07 85.07M339.91 642.49a53.8 53.8 0 11-53.8-53.8 53.8 53.8 0 0153.8 53.8M232.3 551.56a35.85 35.85 0 11-35.85-35.85 35.85 35.85 0 0135.85 35.85M160.58 646.03a22.1 22.1 0 11-22.1-22.11 22.1 22.1 0 0122.1 22.1",
+          "fill": "#1adc0c"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M612.2 753.89a272.3 272.3 0 01-249.15-162.24l41.15-24.44a37.57 37.57 0 0143.53 3.72l47.39 40.34a52.9 52.9 0 0068.81-.17l147.7-127.12 46.04 45.27a2.68 2.68 0 002.87.54 2.62 2.62 0 001.63-2.43V396.54a2.6 2.6 0 00-.8-1.86 2.63 2.63 0 00-1.86-.78H626.46a2.62 2.62 0 00-2.47 1.64 2.64 2.64 0 00.58 2.89l55.7 54.76-126.25 108.75a37.59 37.59 0 01-48.87.14l-32.74-27.92a82.85 82.85 0 00-95.97-8.15l-29.94 15.4a273.9 273.9 0 01-6.59-59.73 272.22 272.22 0 01464.72-192.5 272.2 272.2 0 01-192.43 464.7z",
+          "fill": "#1adc0c"
+        }
+      }]
+    };
+  },
+  "name": "FullStartThat",
+  "theme": "full"
+};
+exports.Z = FullStartThatFull;
+
+/***/ }),
+
+/***/ 96436:
+/***/ (function(__unused_webpack_module, exports) {
+
+"use strict";
+var __webpack_unused_export__;
+
+
+// This icon file is generated automatically.
+__webpack_unused_export__ = ({
+  value: true
+});
+var FulldebugFull = {
+  "icon": function render(primaryColor, secondaryColor) {
+    return {
+      "tag": "svg",
+      "attrs": {
+        "viewBox": "0 0 1024 1024",
+        "focusable": "false"
+      },
+      "children": [{
+        "tag": "path",
+        "attrs": {
+          "d": "M68.92000000000002 506.98a450.82 450.82 0 10901.63 0 450.82 450.82 0 10-901.63 0z",
+          "fill": "#FFE1E9"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M512 256q188.67 0 188.67 188.67v134.66Q700.67 768 512 768T323.33 579.33V444.67Q323.33 256 512 256z",
+          "fill": "#FF3369"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M288 384h448q32 0 32 32t-32 32H288q-32 0-32-32t32-32zM288 512h448q32 0 32 32t-32 32H288q-32 0-32-32t32-32zM288 640h448q32 0 32 32t-32 32H288q-32 0-32-32t32-32z",
+          "fill": "#FF3369"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M480 576h64q32 0 32 32t-32 32h-64q-32 0-32-32t32-32zM480 448h64q32 0 32 32t-32 32h-64q-32 0-32-32t32-32z",
+          "fill": "#FFF"
+        }
+      }, {
+        "tag": "path",
+        "attrs": {
+          "d": "M370.74 210.75q22.63-22.63 45.26 0L461.25 256q22.63 22.63 0 45.26t-45.25 0L370.74 256q-22.63-22.62 0-45.25zM653.26 210.75q22.62 22.62 0 45.25L608 301.26q-22.63 22.62-45.25 0-22.63-22.63 0-45.26L608 210.75q22.63-22.63 45.26 0z",
+          "fill": "#FF3369"
+        }
+      }]
+    };
+  },
+  "name": "Fulldebug",
+  "theme": "full"
+};
+exports.Z = FulldebugFull;
 
 /***/ }),
 
@@ -48997,6 +49191,7 @@ __webpack_require__.d(__webpack_exports__, {
   FullCopy01Full: function() { return /* reexport */ icons_FullCopy01Full; },
   FullCopy03Full: function() { return /* reexport */ icons_FullCopy03Full; },
   FullCopyFull: function() { return /* reexport */ icons_FullCopyFull; },
+  FullDebug1Full: function() { return /* reexport */ icons_FullDebug1Full; },
   FullDownload01Full: function() { return /* reexport */ icons_FullDownload01Full; },
   FullEachFull: function() { return /* reexport */ icons_FullEachFull; },
   FullIconAa0Full: function() { return /* reexport */ icons_FullIconAa0Full; },
@@ -49066,6 +49261,9 @@ __webpack_require__.d(__webpack_exports__, {
   FullIconCc7Full: function() { return /* reexport */ icons_FullIconCc7Full; },
   FullIconCc8Full: function() { return /* reexport */ icons_FullIconCc8Full; },
   FullIconCc9Full: function() { return /* reexport */ icons_FullIconCc9Full; },
+  FullStartFull: function() { return /* reexport */ icons_FullStartFull; },
+  FullStartThatFull: function() { return /* reexport */ icons_FullStartThatFull; },
+  FulldebugFull: function() { return /* reexport */ icons_FulldebugFull; },
   GithubFolderFull: function() { return /* reexport */ icons_GithubFolderFull; },
   GithubShadow: function() { return /* reexport */ icons_GithubShadow; },
   GitignoreShadow: function() { return /* reexport */ icons_GitignoreShadow; },
@@ -60413,6 +60611,23 @@ var FullCopyFull = function FullCopyFull(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_FullCopyFull = (/*#__PURE__*/external_React_.forwardRef(FullCopyFull));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FullDebug1Full.js
+var icd_FullDebug1Full = __webpack_require__(81116);
+;// CONCATENATED MODULE: ./src/icons/FullDebug1Full.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var FullDebug1Full = function FullDebug1Full(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_FullDebug1Full/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_FullDebug1Full = (/*#__PURE__*/external_React_.forwardRef(FullDebug1Full));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FullDownload01Full.js
 var icd_FullDownload01Full = __webpack_require__(93958);
 ;// CONCATENATED MODULE: ./src/icons/FullDownload01Full.tsx
@@ -61586,6 +61801,57 @@ var FullIconCc9Full = function FullIconCc9Full(props, ref) {
 };
 if (false) {}
 /* harmony default export */ var icons_FullIconCc9Full = (/*#__PURE__*/external_React_.forwardRef(FullIconCc9Full));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FullStartFull.js
+var icd_FullStartFull = __webpack_require__(89689);
+;// CONCATENATED MODULE: ./src/icons/FullStartFull.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var FullStartFull = function FullStartFull(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_FullStartFull/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_FullStartFull = (/*#__PURE__*/external_React_.forwardRef(FullStartFull));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FullStartThatFull.js
+var icd_FullStartThatFull = __webpack_require__(94343);
+;// CONCATENATED MODULE: ./src/icons/FullStartThatFull.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var FullStartThatFull = function FullStartThatFull(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_FullStartThatFull/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_FullStartThatFull = (/*#__PURE__*/external_React_.forwardRef(FullStartThatFull));
+// EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/FulldebugFull.js
+var icd_FulldebugFull = __webpack_require__(96436);
+;// CONCATENATED MODULE: ./src/icons/FulldebugFull.tsx
+
+// 为天地立心、为生民立命、为往圣继绝学、为万事开太平
+
+
+
+
+var FulldebugFull = function FulldebugFull(props, ref) {
+  return /*#__PURE__*/external_React_.createElement(IcdIcon, extends_default()({}, props, {
+    ref: ref,
+    icon: icd_FulldebugFull/* default */.Z
+  }));
+};
+if (false) {}
+/* harmony default export */ var icons_FulldebugFull = (/*#__PURE__*/external_React_.forwardRef(FulldebugFull));
 // EXTERNAL MODULE: ./node_modules/@iicoding/svg/dist/lib/icd/GithubFolderFull.js
 var icd_GithubFolderFull = __webpack_require__(37275);
 ;// CONCATENATED MODULE: ./src/icons/GithubFolderFull.tsx
@@ -63357,6 +63623,10 @@ if (false) {}
 ;// CONCATENATED MODULE: ./src/icons/index.tsx
 // GENERATE BY ./scripts/generate.ts
 // DON NOT EDIT IT MANUALLY
+
+
+
+
 
 
 
