@@ -3,8 +3,8 @@ import type { IconDefinition } from '@iicoding/svg/dist/lib/types';
 import type { IconBaseProps } from './Icon';
 import { getTwoToneColor, setTwoToneColor } from './twoTonePrimaryColor';
 import type { TwoToneColor } from './twoTonePrimaryColor';
-export interface IcdIconProps extends IconBaseProps {
-    twoToneColor?: TwoToneColor;
+export interface IcdIconProps extends Partial<IconBaseProps> {
+    twoToneColor?: Partial<TwoToneColor>;
 }
 export interface IconComponentProps extends IcdIconProps {
     icon: IconDefinition;
