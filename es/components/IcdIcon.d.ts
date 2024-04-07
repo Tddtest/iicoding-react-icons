@@ -9,7 +9,7 @@ export interface IcdIconProps extends Partial<IconBaseProps> {
 export interface IconComponentProps extends IcdIconProps {
     icon: IconDefinition;
 }
-interface IconBaseComponent<Props> extends React.ForwardRefExoticComponent<Props & React.RefAttributes<HTMLSpanElement>> {
+interface IconBaseComponent<Props> extends React.ForwardRefExoticComponent<Partial<Props> & React.RefAttributes<HTMLSpanElement>> {
     getTwoToneColor: typeof getTwoToneColor;
     setTwoToneColor: typeof setTwoToneColor;
 }
